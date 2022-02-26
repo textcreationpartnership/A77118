@@ -1,0 +1,1169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the Church Catholick: where it was before the Reformation: and, whether Rome were or bee the Church Catholick. In answer to II. letters sent to Edward Boughen, D.D.</title>
+            <author>Boughen, Edward, 1587?-1660?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 161 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77118</idno>
+            <idno type="STC">Wing B3812</idno>
+            <idno type="STC">Thomason E690_7</idno>
+            <idno type="STC">ESTC R202278</idno>
+            <idno type="EEBO-CITATION">99862622</idno>
+            <idno type="PROQUEST">99862622</idno>
+            <idno type="VID">114787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114787)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 106:E690[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the Church Catholick: where it was before the Reformation: and, whether Rome were or bee the Church Catholick. In answer to II. letters sent to Edward Boughen, D.D.</title>
+                  <author>Boughen, Edward, 1587?-1660?</author>
+               </titleStmt>
+               <extent>64 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes, for Richard Royston at the Angel in Ivie-lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.DC.LIII. [1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Church --  Catholicity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114787:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT OF THE CHURCH CATHOLICK: Where it was before the <hi>Reformation:</hi> AND, Whether ROME were or bee the <hi>CH<g ref="char:V">Ʋ</g>RCH CATHOLICK.</hi>
+            </p>
+            <p>IN ANSWER to <hi>II.</hi> LETTERS SENT TO <hi>Edward Boughen,</hi> D. D.</p>
+            <q>
+               <p>
+                  <hi>We write none other things unto you, then what yee read, or acknowledge,</hi>
+               </p> 
+               <bibl>2 COR. 1.13.</bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>Evigilate ad ſalutem, amate pacem, redite ad unitatem,</hi>
+               </p> 
+               <bibl>Aug. ep. 171.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Cotes,</hi> for <hi>Richard Reyston</hi> at the <hi>ANGEL</hi> in <hi>Ivie-lane,</hi> M.DC.LIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114787:2"/>
+            <pb facs="tcp:114787:2"/>
+            <head>To my Reverend friend <hi>M<hi rend="sup">r.</hi> Boughen</hi> Doctor in Divinity:</head>
+            <head type="sub">Theſe humbly preſent.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEcauſe I ſee in a conference zeal often turns to choler, and becauſe it was deſired I would put my mind in writing, that I might the more diſtinctly be underſtood, and thereby the better receive ſolution: I have here beneath ſet downe what I deſire to have ſhewn <hi>(viz.)</hi> the Catholick Church diſtinct from the Church of <hi>Rome,</hi> and thoſe in communion with her, which by your own propoſitions below is neceſſary to be ſhewn to find the Catholick Church. If this you doe, you may win a ſoul to your Church: If this you cannot doe, I hope you will not accuſe mee for remaining where I am. I have made bold to trouble Mris. <hi>M.</hi> at her conveniency to preſent this to you, and at your conveniency crave the favour of your Anſwer, and am</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your Servant to command, <hi>T. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:114787:3"/>
+            <q>
+               <p n="1">I. <hi>You grant the Catholick Church to be alwayes,</hi> (viz.) <hi>from the Apoſtles time to this time, viſible.</hi>
+               </p>
+               <p n="2">II. <hi>You ſay that the Church of</hi> Rome <hi>and thoſe in communion with her, are not the Catholick Church, be<g ref="char:EOLhyphen"/>cauſe they have grievouſly erred, and in one fundamentall at leaſt.</hi>
+               </p>
+            </q>
+            <p>Then by your ſaying, the Catholick Church muſt be diſtinct from the Church of <hi>Rome,</hi> and thoſe in her communion.</p>
+            <p>Wherefore I deſire to be ſhewn the Catholick Church diſtinct from the Church of <hi>Rome,</hi> and thoſe in her communion for the laſt 1100 years; and if it cannot be ſhewn, it will ne<g ref="char:EOLhyphen"/>ceſſarily follow thoſe were the Catho<g ref="char:EOLhyphen"/>lick Church, or elſe the Catholick Church was not alway viſible.</p>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:114787:3"/>
+            <head>To M<hi rend="sup">r.</hi> 
+               <hi>T. B:</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p n="1">1. <seg rend="decorInit">B</seg>Y Letter you deſire to have ſhewed unto you the <hi>Catholick Church diſtinct from the Church of</hi> Rome, <hi>and thoſe in communion with her:</hi> which was at our meeting mani<g ref="char:EOLhyphen"/>feſted as plainly, as we can diſtin<g ref="char:EOLhyphen"/>guiſh the whole body from a par<g ref="char:EOLhyphen"/>ticular member, or a particular member from the whole body. The body is one thing, the member another; the body is <hi>totum compoſitum,</hi> the whole fabrick; the member but a part of it. And this is the particular Church of <hi>Rome</hi> to the whole Catholick.
+<note n="(a)" place="margin">
+                  <hi>Chryſoſt. in</hi> 1 Cor. 12. <hi>Homil.</hi> 30.</note> Every member (as St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome</hi> teacheth) hath a proper and a common vertue: it hath likewiſe a peculiar, and a common form or ſhape. The hand hath not the ſhape or ſtrength of the whole man; and yet by the meer ſhape we know, it is a mans hand. And though we know the <hi>Church of Rome</hi> by her form, that is, by her Faith and Government, to be a Church; yet hath ſhe not the form or virtue of the whole Church, be ſhe never ſo Catholick. If ſhe have, then muſt the Catholick borrow her life and being from <hi>Rome,</hi> and not <hi>Rome</hi> from the Catholick. If this par<g ref="char:EOLhyphen"/>ticular had the virtue of the whole, then <hi>Timothy</hi> and <hi>Titus</hi> might not have given Orders, or cenſured Delin<g ref="char:EOLhyphen"/>quents,
+<pb n="6" facs="tcp:114787:4"/>or redreſſed what was amiſſe at <hi>Epheſus</hi> and <hi>Crete,</hi> but by virtue of a Commiſſion from the Church or Biſhop of <hi>Rome.</hi> And yet
+<note n="(b)" place="margin">1 Tim. 1.3.</note> St. <hi>Paul</hi> beſought <hi>Timothy</hi> to abide at <hi>Epheſus,</hi> that he might <hi>charge ſome</hi> (thoſe within his Dioceſe) <hi>that they teach no other doctrine then St.</hi> Paul <hi>had delivered.</hi> And
+<note n="(c)" place="margin">Tit. 1.5.</note> 
+               <hi>for this cauſe left he</hi> Titus <hi>at</hi> Crete, <hi>that he ſhould redreſſe what was amiſſe, and ordain Presbyters, as hee had appointed him;</hi> not as the Church of <hi>Rome</hi> directed him. And this was before he had viſited that City.</p>
+            <p n="2">2. But if the <hi>Church of Rome</hi> be the Catholick Church, Where was the Catholick Church before ſhe became a Church? Was there one; or was there none? If one, then was not that the <hi>Romane;</hi> ſince there was yet no ſuch Church. If none, what were
+<note n="(d)" place="margin">Act. 9.31.</note> thoſe <hi>Churches throughout all</hi> Judea, <hi>and</hi> Galilee, <hi>and</hi> Samaria? This was before the Apoſtles parted from one another to teach all Nations: hitherto we find them in theſe quar<g ref="char:EOLhyphen"/>ters, and no other. And yet at that time the <hi>Catholick Church</hi> was in being, unleſſe the <hi>Apostles Creed</hi> deceive us. For
+<note n="(e)" place="margin">
+                  <hi>Ruffin. in Symb. n.</hi> 10.</note> that was framed at <hi>Jeruſalem,</hi> before the Apoſtles went about their great work. And for this end was it made, that it might be
+<note n="(f)" place="margin">
+                  <hi>Hanc cre<g ref="char:EOLhyphen"/>dentibus dandam eſſe regulam ſta<g ref="char:EOLhyphen"/>tuunt.</hi> lb.</note> 
+               <hi>credentibus regula, a rule for beleevers;</hi> whoſoever became Chriſtian, he was to beleeve the <hi>Catholick Church:</hi> which he could not be<g ref="char:EOLhyphen"/>leeve, if it were not in being.</p>
+            <p n="3">3. Secondly, if <hi>Rome</hi> be the <hi>Catholick Church,</hi> then if ſhe be Orthodox, the <hi>Catholick Church</hi> is Orthodox; if ſhe be Hereticall or Schiſmaticall, the whole Church muſt be Hereticall or Schiſmaticall, as ſhe is. So the Church ſhall take denomination from her; with her ſhe ſhall ſtand or fall. Great reaſon then we ſhould have an eye to <hi>Rome,</hi> and relie upon her. But this Church hath been miſerably Schiſmaticall and Hereticall. <hi>Schiſ<g ref="char:EOLhyphen"/>maticall;</hi> as is to be ſeen in <hi>Platina</hi> and <hi>Onuphrius;</hi> when ſhe had ſometimes two, ſometimes three Biſhops toge<g ref="char:EOLhyphen"/>ther; a double, a treble-headed, a monſtrous Church. Whereas
+<note n="(g)" place="margin">
+                  <hi>Concil. Nic. can.</hi> 8.</note> in one City there ought to be but one
+<pb n="7" facs="tcp:114787:4"/>Biſhop. That ſhe hath been ſufficiently hereticall, is confeſſed by your own men. And as long as ſhe was in this ſtate, ſhee was no Church;
+<note n="(h)" place="margin">Cypr. Pom<g ref="char:EOLhyphen"/>peio.</note> 
+               <hi>Haereſis enim Chriſti ſponſa non eſt, Hereſie is no Spouſe of Chriſt;</hi>
+               <note n="(i)" place="margin">
+                  <hi>Si Haeretici ſunt, Chriſtiani eſſe non poſſunt.</hi> Tertul. de Praeſcrip. c. 37.</note> her mem<g ref="char:EOLhyphen"/>bers not ſo much as Chriſtians; if we may beleeve <hi>Tertull.</hi> and St. <hi>Cyprian.</hi> And St. <hi>Austin</hi> ſaith
+<note n="(k)" place="margin">
+                  <hi>Aug. de Deut. loc. l.</hi> 5. <hi>c.</hi> 10.</note> 
+               <hi>Haeretici non per<g ref="char:EOLhyphen"/>tinent ad Eccleſiam Catholicam; Hereticks doe not ſo much as belong to the Catholick Church.</hi> So then they that confeſſe <hi>Rome</hi> to be Hereticall, grant her to be no Church. And yet who dares ſay, that the <hi>Catholick Church</hi> was Schiſ<g ref="char:EOLhyphen"/>maticall or Hereticall, becauſe <hi>Rome</hi> was ſo? This were to deny, to deſtroy the Church. For if <hi>Schiſma<g ref="char:EOLhyphen"/>ticall,</hi> ſhe is no body, but ſhivers. If <hi>Hereticall</hi> in the chief fundamentalls, at leaſt, Where's the Church? Unleſſe, as there were
+<note n="(l)" place="margin">2 Cor. 11.13.</note> 
+               <hi>falſe Apoſtles,</hi> ſo yee will have <hi>falſe Churches.</hi> Such Churches we will have nothing to doe with, unleſſe it be to pray for them, and to adviſe them to
+<note n="(m)" place="margin">Apoc. 2.5.</note> 
+               <hi>remember, from whence they are fallen, to repent, and to doe their firſt works.</hi>
+            </p>
+            <p n="4">4. Thirdly, if <hi>Rome</hi> be the <hi>Catholick Church,</hi> if any thing be amiſſe in any particular, the fault is hers, and ſhe ought to mend it. If any mans hand feſter, or foot be lame, if a remedy be not ſought, the foot or hand are not blamed, but the man, becauſe in time they were not looked to. The reaſon is, becauſe not the hand or foot, but the man hath both diſcretion and power to provide a remedy for every member, that is amiſſe. Thus is it with the Church. This is enough to give any rationall Chriſtian ſatisfaction, that <hi>Rome is not the Catholick Church.</hi> More I ſhould not have writ<g ref="char:EOLhyphen"/>ten; but that you charge me with certain <hi>Propoſitions;</hi> which, you preſume, may ſtand you in much ſtead, to prove the contrary. I ſhall ſhall therefore deſcend to the Propoſitions, and your Inferences drawn from thence. The firſt whereof is this, as you are pleaſed to pen them.</p>
+            <pb n="8" facs="tcp:114787:5"/>
+            <q>You grant the Catholick Church to be always <hi>(viz.)</hi> from the Apostles time to this time,
+<note place="margin">The firſt Pro<g ref="char:EOLhyphen"/>poſition.</note> viſible.</q>
+            <p n="5">5. I doe ſo, both in and <hi>from the Apostles time</hi> to this preſent day. But I doe not ſay, that it was always viſible in one and the ſame place; no, not at <hi>Rome</hi> it ſelfe, you think ſo well of. It hath been more then once, even in that very City under a buſhel. The Sun it ſelf is ſo often under a cloud, that it is not ſeen in theſe parts; and yet viſible it is in other places.
+<note n="(n)" place="margin">
+                  <hi>Quomodo ſolis multi radii, ſedlumen unum?</hi> Cypr. de Unit. Eccleſ.</note> The Church is likened to the Sun, which hath many rayes, and yet but one light. That light is not always in the ſame place, it removes with the Sun: the beams may decay, but the Sun it ſelfe and the light thereof cannot periſh. The Church hath fruitfully encreaſed far and wide into a multitude: but how many of theſe have crumbled into nothing? It is much like the Sea, which loſeth in one place, and gains in another, and yet continues the ſame Sea.
+<note n="(o)" place="margin">I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Adulterari non poteſt Sponſa Chriſti, incorrupta eſt, &amp; pudica;</hi> the Spouſe of Chriſt cannot be corrupted. Corrupt our ſelves we may, and depart from her integrity; but we cannot rob her of her eſſence, or integrity.</p>
+            <p n="6">6. <hi>The Church of God,</hi> I ſay, <hi>is always viſible,</hi> and yet not to every eye: ſometimes it is inviſible not onely to ordinary eyes, but even to the beſt of men.
+<note n="(p)" place="margin">3. <hi>Reg.</hi> 19.10, 14.</note> 
+               <hi>Elijah</hi> himſelf complained to the Lord, that <hi>he, even he onely was left alone</hi> to ſerve the Lord: whereas all other, in his eſteem, were become Idolaters; no face of a Church left in all <hi>Iſrael.</hi> But the Prophet was miſtaken, the Lord aſſures him, that
+<note n="(q)" place="margin">
+                  <hi>Ib. v.</hi> 18.</note> there were 7000 in <hi>Iſrael,</hi> whoſe knees had never bowed to <hi>Baal.</hi> And yet God tells him not where, nor what their names. A <hi>viſible Church</hi> there was at that time, though not viſible to <hi>Elijah.</hi>
+               <note n="(r)" place="margin">3. <hi>Reg.</hi> 18.13.</note> Viſible it was to <hi>Obadiah,</hi> and to them that met in private Congregations (as in times of perſecution, and with us at this day) theſe knew one another. And if
+<pb n="9" facs="tcp:114787:5"/>that great Prophet could not diſcern the Church in his own days, and countrey; would you have me, who am no ſuch Prophet, to point out, where the Church was, when the Weſtern parts were over-run with Popiſh errors? Though I be not able to ſhew where, yet it is more then probable, that there were in this very Iſland 7000 ſouls, that were not tainted with thoſe errors. It is enough for us to prove them to be errors, to be againſt Scripture, and the received ſenſe of the Ancient Church; and to cleanſe our ſelves from them.</p>
+            <p n="7">7. Certainly, under the Law God was not without a Church in <hi>Judah.</hi> Yet ſhew me, he that can, where the viſible Church was, when
+<note n="(s)" place="margin">2 Chron. 12.1.</note> 
+               <hi>Rehoboam</hi> forſook the Law of the Lord, and <hi>all Iſrael</hi> with him. When the Prophet complained, that
+<note n="(t)" place="margin">2 Chr. 15 3.</note> 
+               <hi>for a long ſeaſon</hi> Iſrael <hi>had been without the true God, without a teaching Prieſt, and with<g ref="char:EOLhyphen"/>out the Law.</hi> When
+<note n="(u)" place="margin">
+                  <hi>Ib. c.</hi> 28.23. <hi>&amp;c.</hi> 29.6, 7.</note> 
+               <hi>Ahaz</hi> ſhut up the dores of the Temple, and made Altars for falſe Gods in every cor<g ref="char:EOLhyphen"/>ner of <hi>Jeruſalem,</hi> and in the Cities of <hi>Judah.</hi> When
+<note n="(x)" place="margin">4. <hi>Reg.</hi> 21.4, 5.</note> in the Courts of the Lords houſe, <hi>Manaſſeh</hi> built Altars for all the hoſt of heaven: Had God at that time no viſible Church, think you? or were thoſe ignorant, faith<g ref="char:EOLhyphen"/>leſſe, idolatrous wretches the viſible Church? Neither of theſe can be; needs therefore muſt God in thoſe days have a viſible Church, though the Scripture expreſſeth not where, nor who they were. And can we expect, that mans writings ſhould be more exact then Gods records?</p>
+            <p n="8">8. But God made a promiſe to the Apoſtles, that
+<note n="(y)" place="margin">S. Mat. 28.20.</note> 
+               <hi>he would be with them alwayes,</hi> and with their ſucceſſors, <hi>to the end of the world.</hi> He did ſo; and without queſtion he made good this promiſe, although he were neither with <hi>Liberius, Honorius,</hi> nor <hi>John</hi> 22. I have learned of <hi>Gregory Naz.</hi> to
+<note n="(z)" place="margin">
+                  <p>
+                     <hi>Qui candem fidei doctrinam profitentur, ejuſdem quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> throni ſocius eſt. Qui autem contrariam ſententiam tuetur, adverſarius quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> in throno cenſeri debet.</hi>
+                  </p>
+                  <p>Greg. Naz. Orat. 21. n. 7.</p>
+               </note> diſtinguiſh between ſucceſſors in place, and ſucceſſors in faith. He will be with thoſe that ſuc<g ref="char:EOLhyphen"/>ceed in faith and function; not with thoſe that ſucceed in function onely, and
+<pb n="10" facs="tcp:114787:6"/>not in faith. Let him ſit in what throne he will, he is an adverſary to <hi>Chriſt,</hi> if he be not a ſucceſſor in the Orthodox faith. He that ſucceeds St. <hi>Peter,</hi> or any good Biſhop, and is of a contrary Religion,
+<note n="(a)" place="margin">Ibid.</note> he ſucceeds them, juſt as a diſeaſe follows health, as darkneſſe follows light, and frenzie ſteps into the chair of wiſ<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="9">9. Boaſt not too much of this promiſe: the like was made to the former Prieſthood.
+<note n="(b)" place="margin">Num. 25.13.</note> To <hi>Phineas</hi> the Lord bequeathed the <hi>Covenant of an everlaſting Prieſthood;</hi> that is, to him and his ſeed, as long as that law was to endure. And yet we ſee, that
+<note n="(c)" place="margin">2 Chr. 15.3.</note> 
+               <hi>for a long ſeaſon</hi> Iſrael <hi>was without the true God, without a teaching Prieſt, and without the Law.</hi> Where then was the Church? where the Pro<g ref="char:EOLhyphen"/>miſe?
+<note n="(d)" place="margin">4. <hi>Reg.</hi> 16.10, <hi>&amp;c.</hi>
+               </note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>rijah</hi> the High-Prieſt built that <hi>Altare Da<g ref="char:EOLhyphen"/>maſcenum,</hi> that abominable Altar, according to the pat<g ref="char:EOLhyphen"/>tern of that at <hi>Damaſcus.</hi> On that he offered, and did many other things contrary to Gods law.
+<note n="(e)" place="margin">3. <hi>Reg.</hi> 1.7.25.</note> 
+               <hi>Abiathar</hi> was a Traitour;
+<note n="(f)" place="margin">2 Mac. 4.8.</note> 
+               <hi>Jaſon</hi> a Simoniack, and a prophane wretch; and
+<note n="(g)" place="margin">
+                  <hi>Ib. v.</hi> 25. <hi>&amp;c.</hi>
+               </note> 
+               <hi>Menelaus</hi> one of the veryeſt beaſts that ever lived. Where was then the Prieſthood? where the true Religion? And yet we dare not ſay, that God failed of his promiſe, or wanted a viſible true Church in thoſe dayes. But if it be inquired in whom, and where; it will be an hard matter for either or both of us to manifeſt. Truth it is, God will continue a Church, though bad people and Prieſts abuſe it. He, and onely he, can diſcern, and diſtinguiſh the wheat from the chaffe, and
+<note n="(h)" place="margin">Apoc. 4.3.</note> thoſe few in <hi>Sardis,</hi> that had not defiled their garments, from the multitude that had.
+<note n="(i)" place="margin">
+                  <hi>Ingemuit to<g ref="char:EOLhyphen"/>tus orbis, &amp; ſe Arianum eſſe miratus eſt.</hi> Hieron. cont. Lucifer. c. Vin<g ref="char:EOLhyphen"/>cent. Lirin. c. 6.</note> The world groaned, and wondred to ſee it ſelf all <hi>Arian.</hi> But God ſees not as man ſees; at that time he had a Church; and his eyes beheld it; though it were very difficult for man to point it out. Viſible it was to ſome, and thoſe not over many. Thus much for the Viſibility of the Church.</p>
+            <p n="10">10. It is time now to look toward the ſecond pro<g ref="char:EOLhyphen"/>poſition, wherewith you charge me; which is this,
+<pb n="11" facs="tcp:114787:6"/>
+               <q>You ſay, the Church of <hi>Rome,</hi>
+                  <note place="margin">The ſecond Propoſition.</note> and thoſe in commu<g ref="char:EOLhyphen"/>nion with her, are not the Catholick Church, be<g ref="char:EOLhyphen"/>cauſe they have grievouſly erred, and in one funda<g ref="char:EOLhyphen"/>mentall at leaſt.</q>
+            </p>
+            <p>What ever I ſaid, I am ſure, I have manifeſted, that the <hi>Church of Rome, and thoſe</hi> particular Churches <hi>in her communion, are not,</hi> cannot be, the <hi>Catholick Church,</hi> no more then ſome parts of man may be ſaid to be the whole man, or
+<note n="(k)" place="margin">The Church is called the <hi>Houſe of God,</hi> 1. Tim. 3.15.</note> ſome parts of an houſe to be the whole houſe. But as for the reaſon, which you impoſe upon me, I am certain, I never gave it. I never ſaid, <hi>theſe were not the Catholick Church, becauſe they have grie<g ref="char:EOLhyphen"/>vouſly erred, and in one fundamentall at leaſt.</hi> This reaſon was not, could not be given for that purpoſe; neither was it needfull, or uſefull. For had it never erred, <hi>the Catholick</hi> it could not be, <hi>a Catholick</hi> it might be; a part, but not the whole. If theſe, you ſpeak of, be the whole, all other are excluded: and that, your party moſt un<g ref="char:EOLhyphen"/>charitably aimes at. Take <hi>Rome</hi> at the beſt, at the higheſt,
+<note n="(l)" place="margin">
+                  <hi>Concil. Nic. can.</hi> 6.</note> ſhe hath her priviledges among many; not over all: other Provinces muſt enjoy theirs. And divers Biſhops have as large territories, as ever juſtly had your Pope of <hi>Rome.</hi> He that hath a deſire to know the truth of this, let him conſult the 6 Canon of <hi>Nice;</hi> the 2 &amp; 3 of <hi>Conſtantino<g ref="char:EOLhyphen"/>ple;</hi> the 28 of <hi>Chalcedon,</hi> with the 28 &amp; 125 Canons of the <hi>African Code:</hi> and he ſhall quickly diſcern, that <hi>Rome</hi> in thoſe days was no ſuch wondrous Church. She, no leſſe then others, had her bounds, which ſhe might not paſſe.</p>
+            <p n="11">11. But, I remember, well, I ſaid, that if there were no other cauſe, then the maiming of the Lords Supper, I could not communicate with the Church of <hi>Rome.</hi> The reaſon is, becauſe our Saviour ordained it to be given in both kinds; and ye have moſt ſacrilegiouſly robbed the Laity of his blood. By this means yee make the people unfit for martyrdome, if St. <hi>Cyprian</hi> miſtake
+<pb n="12" facs="tcp:114787:7"/>not.
+<note n="(m)" place="margin">
+                  <hi>Cyp. l.</hi> 1. <hi>ep.</hi> 2</note> 
+               <hi>Quomodo</hi> (ſaith that Father) <hi>ad martyrii poculum idoneos facimus, ſi non eos ad</hi> BIBENDUM <hi>prius in Ec<g ref="char:EOLhyphen"/>cleſia</hi> POCULUM DOMINI <hi>jure communicationis ad<g ref="char:EOLhyphen"/>mittimus? How can we make them fit for the cup of Martyr<g ref="char:EOLhyphen"/>dome, if firſt in the Church we doe not by right of communion admit them to</hi> DRINK THE CUP OF THE LORD? And againe,
+<note n="(n)" place="margin">How can we ſhed our blood for Chriſt who are aſha<g ref="char:EOLhyphen"/>med to <hi>drink the blood of Chriſt?</hi> Cypr. l. 2. ep. 3.</note> 
+               <hi>Quomodo poſſumus propter Chriſtum ſanguinem fundere, qui ſanguinem Chriſti erubeſcimus bibere?</hi> No, may the people ſay, we are not aſhamed to <hi>drink it;</hi> but yee are aſhamed to give it us to <hi>drink;</hi> at leaſt to acknowledge the wrong, that yee have done us. We have a <hi>right to drink it,</hi> but yee have barred us from <hi>our right.</hi> Thus yee have gone againſt the ſenſe and practiſe of the Primitive Church. Yee have alſo de<g ref="char:EOLhyphen"/>parted from the <hi>Inſtitution of Chriſt,</hi>
+               <note n="(o)" place="margin">
+                  <hi>Ex Chriſti inſtitutione Sa<g ref="char:EOLhyphen"/>cramenta virtu<g ref="char:EOLhyphen"/>tem obtinent.</hi> Tho 3 q 64.3. c</note> from which the Sacraments receive their force and virtue. What efficacy then can your half Sacrament be of?</p>
+            <p n="12">12. But for your further ſatisfaction, I adde; Firſt, <hi>The Church of</hi> Rome, <hi>and thoſe in communion with her, are not the Catholick Church excluſivè,</hi> ſolely excluding others; however divers of that faction appropriate that title to them. And yet
+<note n="(p)" place="margin">
+                  <hi>Art.</hi> 19.</note> we grant <hi>Rome</hi> herſelf to be a Church, that is, a member of the one Catholick, though an erroni<g ref="char:EOLhyphen"/>ous member; as a vicious man is a man, or as an ulce<g ref="char:EOLhyphen"/>rous member is a part of the body. Though we ſee her errors, we deny not her eſſence; but wiſh ſhe were clean<g ref="char:EOLhyphen"/>ſed from her corruptions. Secondly, a particular Church cannot be ſtyled the <hi>
+                  <g ref="char:V">Ʋ</g>niverſall,</hi> and <hi>Catholick</hi> ſignifies no<g ref="char:EOLhyphen"/>thing elſe;
+<note n="*" place="margin">
+                  <hi>Si hominem dicas, jam quem<g ref="char:EOLhyphen"/>vis hominem dixiſti.</hi> Athan. de Definit. tom. 2. p. 45.</note> no more then <hi>Socrates</hi> can be ſaid to be <hi>Home in ſpecie,</hi> all, or the onely man. Neither can we affirm, that man is the onely <hi>animal,</hi> the onely ſenſitive crea<g ref="char:EOLhyphen"/>ture, though the moſt excellent. Yet in the third place, though we deny you to be <hi>the Catholick,</hi> we acknowledge you to be a Church.
+<note n="(q)" place="margin">Archbiſhop <hi>Lawd.</hi> §. 20. <hi>n.</hi> 3.</note> 
+               <hi>For that Church, which receives the Scripture as a Rule of faith, though but as a partiall and imperfect Rule; and both the Sacraments as inſtrumentall cauſes and ſeals of grace, though they adde more, and miſuſe theſe; yet cannot but be a true Church in eſſence.</hi>
+            </p>
+            <pb n="13" facs="tcp:114787:7"/>
+            <p n="13">13. It is not then every <hi>abuſe of Scripture and Sacra<g ref="char:EOLhyphen"/>ments;</hi> but
+<note n="(r)" place="margin">
+                  <hi>Haeretici</hi> de Deo falſa ſentiendo <hi>ipſam fidem vio<g ref="char:EOLhyphen"/>lan. Quapropter non perti<g ref="char:EOLhyphen"/>nent ad Eccleſiam Catholica<g ref="char:cmbAbbrStroke">̄</g>.</hi> Aug. de Deut. locut. l. 6. c. 10.</note> the razing of the foundation, that ruines a Church, and makes that to be none, which heretofore was one. Of the eſſence of the Church, I take to be theſe two;
+<note n="(s)" place="margin">
+                  <hi>Omnes haereſes ad utram<g ref="char:EOLhyphen"/>que formam à noſtris Eccle<g ref="char:EOLhyphen"/>ſiis provocatae probent ſe, quaquâ putant, Apoſtolicas.</hi> Tertul. de Praeſcrip. c. 32.</note> the <hi>Catholick faith,</hi> and the <hi>Apoſtolick government.</hi> The former is the ſoul of the Church, and gives it life; the other is as the ſinews thereof, which knit the members together firmly into one body. Without the former it is built upon ſand; and without the other it cannot laſt.
+<note n="(t)" place="margin">Heb. 11.6.</note> Without the <hi>Catholick faith</hi> we cannot pleaſe God; and without a <hi>Biſhop</hi> the Sacraments will quickly ceaſe. Yea the very communion of the Church muſt fail; ſince, according to St. <hi>Austin</hi>'s rule,
+<note n="(u)" place="margin">
+                  <hi>Non poſſunt communicare niſi iis quos</hi> ſedere in ſedebus E<g ref="char:EOLhyphen"/>piſcopalibus <hi>au<g ref="char:EOLhyphen"/>diebant.</hi> Aug. ep. 163.</note> we may not ſo much as hold communion with any, that have not <hi>Epiſco<g ref="char:EOLhyphen"/>pall Sees.</hi> Since then yee profeſſe the <hi>Catholick faith,</hi> and continue the <hi>Apoſtolick government,</hi> though mixt with cor<g ref="char:EOLhyphen"/>ruptions and encroachments,
+<note n="(x)" place="margin">Archbiſhop <hi>Lawd.</hi> § 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>n.</hi> 2.</note> we grant you to be a true, but not <hi>Orthodox Church.</hi> For
+<note n="(y)" place="margin">
+                  <hi>Integritatis cuſtodes, &amp; recta ſectantes.</hi> Aug. de verâ Rel. c. 5.</note> 
+               <hi>Orthodox Chri<g ref="char:EOLhyphen"/>ſtians</hi> are keepers of integrity, and followers of right things. Of which the Church of <hi>Rome</hi> is neither.</p>
+            <p n="14">14. If then, according to your charge, I did ſay, that the <hi>Romane Church had grievouſly erred, and in one fun<g ref="char:EOLhyphen"/>damentall at leaſt;</hi> yet as then, ſo now, I am, have been, and ever ſhall be loath, to deny her to be a true Church; ſince without the Church, no ſalvation. If you will make her no Church, or a falſe Church, and put your ſelves out of all hope, I can pity you, but not help it. In<g ref="char:EOLhyphen"/>deed, the pride of that See is ſuch, ſhe will be all, or nothing; either the <hi>Catholick,</hi> or no Church. It is not therefore to her content, to yeild her to be <hi>a Church,</hi> ſince that implyes no more, then that ſhe is a member of the whole. Alas, the Univerſall ſhe cannot be;
+<note n="(z)" place="margin">
+                  <hi>Sicut uni<g ref="char:EOLhyphen"/>verſa terra ex multis terris, &amp; unviverſa Ec<g ref="char:EOLhyphen"/>cleſia ex multis conſtat Eccleſiis.</hi> Aug. de Civ. Dei. l. 13. c. 13.</note> that con<g ref="char:EOLhyphen"/>ſiſts of many Churches, as the whole earth conſiſts of ma<g ref="char:EOLhyphen"/>ny lands and countreys: and yet but one Earth, and one Church. Neither of them is couped up, or confined within the largeſt Continent. For my part, I profeſſe
+<pb n="14" facs="tcp:114787:8"/>with St. <hi>Auſtin,</hi> that
+<note n="(a)" place="margin">
+                  <hi>Aug. contr. Creſcon. Gram. l</hi> 3. <hi>c.</hi> 35.</note> 
+               <hi>I am in that Church, cujus membra ſunt omnes illae Eccleſiae, quas ex laboribus Apoſtolorum natas atque firmatas ſimul in literis canonicis novimus, the members whereof are all thoſe Churches, which in Scripture we know to have been planted and confirmed by the Apoſtles induſtry.</hi> And
+<note n="(b)" place="margin">
+                  <hi>Earum com<g ref="char:EOLhyphen"/>munionem, quan<g ref="char:EOLhyphen"/>tum me adjuvat Dominus, ſive in Aphricâ, ſive u<g ref="char:EOLhyphen"/>bicun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> non de<g ref="char:EOLhyphen"/>ſeram.</hi> Ib.</note> their communion, with Gods aſſiſtance, I ſhall ne<g ref="char:EOLhyphen"/>ver forſake, whether in <hi>England,</hi> or elſewhere; unleſſe theſe forſake the truth. I ſhall never leave the <hi>
+                  <g ref="char:V">Ʋ</g>niverſall</hi> to ſide with any particular Church. And I would ad<g ref="char:EOLhyphen"/>viſe your Maſters to take heed, leſt while, with the Dogge in the Fable, they catch at too much, they loſe all.</p>
+            <p n="15">15. <note n="(c)" place="margin">Cyprian. de unit. Eccleſ.</note> The Church (according to St. <hi>Cyprian</hi>) is like a Tree, whoſe boughs are many, but the body one, firmly rooted. <hi>Ab arbore frange ramum, fructus germinare non poterit;</hi> break the beſt arme from this body, it will bear no fruit for heaven; the branch it ſelf will wither, and rot, and come to nothing. Hath that Church, you ſpeak of, been heretofore a glorious and happy Church? Glory not too much in that,
+<note n="(d)" place="margin">Ro. 11.18.</note> 
+               <hi>boaſt not over the reſt of the branches,</hi> that have been leſſe ſucceſſefull; <hi>thou beareſt not the root, but the root thee;</hi> thou art but graffed in, as the reſt were: and
+<note n="(e)" place="margin">
+                  <hi>Ib. v.</hi> 17.</note> 
+               <hi>with them thou partakeſt of the root and fatneſſe of the olive tree.</hi> Remember alſo, though there be many branches, yet there is but one originall, one root, that yeelds ſap, and life, and fruit to every bough, great or ſmall. Suppoſe thou be the top-bough, yet rend not, ſuffer not thy ſelfe to be rent, from this body. Take heed of this, leſt thou become fewell for that dread<g ref="char:EOLhyphen"/>full fire.</p>
+            <p n="16">16. That the <hi>Church of</hi> Rome <hi>hath grievouſly and dange<g ref="char:EOLhyphen"/>rouſly erred,</hi> I need no witneſſes but your own family. <hi>Stapleton</hi> juſtifies, that
+<note n="(f)" place="margin">
+                  <hi>Stapleton. Relect. cont.</hi> 1. <hi>q.</hi> 5. <hi>A.</hi> 3.</note> 
+               <hi>there is ſcarce any ſin, that can be thought by man (Hereſie onely excepted) with which that See hath not been foully ſtained; eſpecially from the</hi> 800 <hi>years after Christ.</hi> But
+<note n="(g)" place="margin">
+                  <hi>Stella in luc.</hi> 22.31.</note> 
+               <hi>Stella,</hi> and
+<note n="(h)" place="margin">
+                  <hi>Almain. l.</hi> 3. <hi>D.</hi> 24. <hi>q.</hi> 1.</note> 
+               <hi>Almain</hi> grant freely, that ſome of the Biſhops of <hi>Rome</hi> did fall into <hi>hereſie;</hi> and ſo ceaſed to be heads of the Church. And though
+<pb n="15" facs="tcp:114787:8"/>ſome of that Churches errors at this day be dangerous to ſalvation, yet
+<note n="(i)" place="margin">Archbiſhop <hi>Lawd.</hi> §. 20. <hi>n.</hi> 23.</note> that judicious Biſhop, I then ſpake of, would not venture to ſet down, <hi>what errors in doctrine may give juſt cauſe of ſeparation in this body, or the parts of it one from another.</hi> Neither ſhall I, by Gods grace, be over-bold in this point.</p>
+            <p n="17">17. The <hi>points fundamentall</hi> are contained in the <hi>Creed;</hi> which is (as the <hi>Councell of Trent</hi> ſpeaks)
+<note n="(k)" place="margin">
+                  <hi>Concil. Trid. Seſſ.</hi> 3.</note> 
+               <hi>Et funda<g ref="char:EOLhyphen"/>mentum firmum &amp; unicum,</hi> not the <hi>firm</hi> alone, but the <hi>onely foundation.</hi> And <hi>Bellarmine</hi> reſolves, that
+<note n="(l)" place="margin">
+                  <hi>Bellar. de Verb. Dei non Scrip. l.</hi> 4. <hi>c.</hi> 11.</note> 
+               <hi>All things ſimply neceſſary for all mens ſalvation,</hi> are expreſſed in the <hi>Creed</hi> and <hi>Deealogue.</hi> If yee have erred in any of theſe, and grown obſtinate in this error, yee are become an Hereticall Church in battering the <hi>foundation.</hi> And yet we muſt take notice, that
+<note n="(m)" place="margin">Archbiſh. <hi>Lawd.</hi> § 11. <hi>n</hi> 1.</note> 
+               <hi>every thing fundamentall is not of a like neerneſſe to the foundation, nor of equall primeneſſe in the faith.</hi> For there are
+<note n="(n)" place="margin">
+                  <hi>The.</hi> 2<hi rend="sup">a.</hi> 2<hi rend="sup">•.</hi> 
+                  <hi>q.</hi> 1. <hi>Art.</hi> 7. <hi>c.</hi>
+               </note> 
+               <hi>quaedam prima credibilia,</hi> certain prime principles of faith, in the boſome whereof all other Arti<g ref="char:EOLhyphen"/>cles lie wrapped and folded up. What ever Church denies or disbeleives any of theſe, ceaſeth to be not onely <hi>Ortho<g ref="char:EOLhyphen"/>dox,</hi> but <hi>Catholick,</hi> and ſo no member of the true Church; ſince
+<note n="(o)" place="margin">1. S. Jo. 4.3.</note> 
+               <hi>every ſpirit, that confeſſeth not that Jeſus Christ is come in the fleſh, is not of God, but is that ſpirit of Antichriſt.</hi> Now, if yee have at any time denied
+<note n="(p)" place="margin">
+                  <hi>Ib. c.</hi> 5.20.</note> 
+               <hi>this Jeſus Chriſt to be the true God and eternall life,</hi> ye were at that time no Church, but an Antichriſtian Synagogue. But this did <hi>Marcellinus,</hi> and <hi>Liberius,</hi> and <hi>John</hi> 22. (all Biſhops of <hi>Rome</hi>). In thoſe times therefore yee were no Church, but an Antichriſtian Synagogue.
+<note n="(q)" place="margin">Cypr. Pomp.</note> 
+               <hi>Haereſis enim Chriſti Sponſa non eſt,</hi> ſince <hi>Hereſie is not the Spouſe of Chriſt.</hi>
+            </p>
+            <p n="18">18. If you doubt of the <hi>Minor, Stella</hi> makes that good; for he teſtifies, that
+<note n="(r)" place="margin">
+                  <hi>Stella in luc.</hi> 22.31.</note> 
+               <hi>Marcellinus</hi> ſacrificed to Idols; that <hi>Liberius</hi> aſſented to the <hi>Arians;</hi> that is, he denyed our Savi<g ref="char:EOLhyphen"/>our to be of one and the ſame ſubſtance with the Father: and that <hi>John</hi> 22. affirmed, that God the Son is greater then the Father and the Holy Ghoſt. Theſe batter and undermine the foundation; which what ever Congregation does, it apoſtatizeth, and is no Church. While then <hi>Rome</hi>
+               <pb n="16" facs="tcp:114787:9"/>did, and beleeved thus, neither ſhe, nor any of thoſe that communicated with her in theſe, or any of theſe hereſies,
+<note n="(s)" place="margin">
+                  <hi>Nulla ſocie<g ref="char:EOLhyphen"/>tas fidei &amp; per<g ref="char:EOLhyphen"/>fidiae poteſt eſſe. Qui cum Chri<g ref="char:EOLhyphen"/>ſto non eſt, ad<g ref="char:EOLhyphen"/>verſarius Chri<g ref="char:EOLhyphen"/>ſti eſt.</hi> Cypr. l. 1. ep. 3.</note> were ſo much as a Church, much leſſe the Catholick Church. Eſpecially ſince all theſe are contra<g ref="char:EOLhyphen"/>ry to the Creed and Catholick faith:
+<note n="(t)" place="margin">
+                  <hi>Athan.</hi> Cre.</note> 
+               <hi>which faith ex<g ref="char:EOLhyphen"/>cept every one doe keep whole and undefiled, without doubt he ſhall periſh everlaſtingly.</hi> This <hi>Creed</hi> our Church appeals to, whether <hi>Catholick,</hi> or not <hi>Catholick;</hi> this is the faith ſhe deſires to be ſaved by. He, that faithfully beleives this Creed, is a <hi>Catholick;</hi> but he, that beleives it not, is no Catholick, neither can he be ſaved. I am one of <hi>Atha<g ref="char:EOLhyphen"/>naſius</hi> his Catholicks; and with Gods bleſſing I ſhall live and die ſo.</p>
+            <p n="19">19. But I know, what you drive at. You were plea<g ref="char:EOLhyphen"/>ſed to ask, where our Church was before the Reformation? It was anſwer'd, in the <hi>Catholick.</hi> Next, you inquired, whether the <hi>Catholick</hi> were alwayes <hi>viſible?</hi> The reply was affirmative; both here, and in other places. But be<g ref="char:EOLhyphen"/>fore the Reformation we communicated with <hi>Rome;</hi> and ſince we have not. That's no fault of ours; yee will no ſuffer us to communicate with you, unleſſe we commu<g ref="char:EOLhyphen"/>nicate with your errors. And yet we ſhall, maugre Satan, communicate with the Catholick Church, while
+<note n="(u)" place="margin">Ro. 15.6.</note> 
+               <hi>with one mind and one mouth we glorifie God, even the Father of our Lord Jeſus Chriſt,</hi> according to this, the <hi>Nicene,</hi> and the Apoſtles Creed. While we pray for the Church Univer<g ref="char:EOLhyphen"/>ſall, and for all <hi>Biſhops,</hi> Paſtors, and Curates thereof: While we pray for all Gods people; for all that have er<g ref="char:EOLhyphen"/>red, and are deceived; even for our enemies, perſecutors, and ſlanderers: While we continue the Apoſtolick go<g ref="char:EOLhyphen"/>vernment; and while we not onely receive, but ad<g ref="char:EOLhyphen"/>miniſter the Sacraments according to <hi>Chriſts</hi> holy Or<g ref="char:EOLhyphen"/>dinance, we ſhall be in the communion of the Catholick Church.</p>
+            <p n="20">20. Truth it is, as that judicious Biſhop told Mr. <hi>Fiſher,</hi>
+               <note n="(x)" place="margin">Archbiſhop <hi>Lawd.</hi> § 21. <hi>n.</hi> 1.</note> 
+               <hi>the cauſe of the Schiſme is yours; for yee thruſt us from you, becauſe we called for Truth, and redreſſe of abuſes.</hi> What was then to be done? muſt we ſwallow untruths, and
+<pb n="17" facs="tcp:114787:9"/>wink at abuſes, that we may collogue and communicate with you? It had not wont to be ſo; every Province had wont to reform it ſelfe. And ſo ſhe did not tranſ<g ref="char:EOLhyphen"/>greſſe the Faith or Canons of the Church Catholick, the reformation was both legall and commendable. We did ſo with our Provinces, following therein the ancient Canons of the Church, which aſſure us, that
+<note n="(y)" place="margin">
+                  <hi>Concil. Con<g ref="char:EOLhyphen"/>ſtantinop. can.</hi> 2.</note> 
+               <hi>every Provinciall Synod is to order all things within the Province.</hi> And for full ſatisfaction, thoſe Fathers of <hi>Constantinople</hi> juſtifie this Canon by the Decrees of the <hi>Nicene</hi> Councel. Indeed ſometimes
+<note n="(z)" place="margin">
+                  <hi>Ib. can.</hi> 6.</note> it may happen, that the buſineſſe will prove to be of ſuch conſequence and circumſpecti<g ref="char:EOLhyphen"/>on, that a <hi>Provinciall Synod</hi> is not fit to determine it. What is then to be done? That very Canon ſays,
+<note n="(a)" place="margin">Ib.</note> in ſuch a caſe we muſt not make our addreſſe to a <hi>Generall Councel;</hi> but to a greater Synod of the Biſhops of that Dioceſe, called together for that purpoſe. But we muſt obſerve, that in the ancient both Civil and Eccleſiaſtical acceptation,
+<note n="(b)" place="margin">
+                  <hi>Dixceſis multas ſub ſe habet provincias.</hi> Balſam. in conc. Chalced. Can. 9.</note> a Dioceſe contains in it many Provin<g ref="char:EOLhyphen"/>ces. This Councel we ought not to decline, by mo<g ref="char:EOLhyphen"/>leſting the Emperour, or any ſecular Magiſtrates, with complaints; as our late Miniſters have done. This is not canonicall, and the complaint is not to be admitted. We are therefore to take notice, that
+<note n="(c)" place="margin">
+                  <hi>Notit. Imp. l.</hi> 2. <hi>c.</hi> 48.</note> the three <hi>Bri<g ref="char:EOLhyphen"/>tains</hi> were a <hi>Dioceſe</hi> of themſelves, and had a <hi>Praefectus Prae<g ref="char:EOLhyphen"/>torio</hi> for Civil, and a <hi>Primate</hi> for Eccleſiaſtical affaires.
+<note n="(d)" place="margin">
+                  <hi>Cantuariae prima ſedes Ar<g ref="char:EOLhyphen"/>chiepiſcopi habe<g ref="char:EOLhyphen"/>tur, qui eſt</hi> toti<g ref="char:EOLhyphen"/>us Angliae Pri<g ref="char:EOLhyphen"/>mas &amp; Patriar<g ref="char:EOLhyphen"/>cha. Guil. Malmesbur. in Prologo l. 1. de Geſt. Pontif. Angl. p. 195.</note> The <hi>Primate</hi> or <hi>Patriarch</hi> is the <hi>Archbiſhop of Canterbury.</hi> So then our Reformation is not after any new, or late<g ref="char:EOLhyphen"/>ly invented model; it is according to the ancient courſe and canons of the Church; and therefore juſtifiable. If we had taken any other courſe in our Reformation, we had done amiſſe. For according to the Councel of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi>
+               <note n="(e)" place="margin">
+                  <hi>Concil. Con<g ref="char:EOLhyphen"/>ſtantinop. can.</hi> 6.</note> we had run into an high contempt; 1. by ſligh<g ref="char:EOLhyphen"/>ting all the Biſhops of this Dioceſe; 2. by injuring the Canons; and 3. by ſubverting the Eccleſiaſticall order and government.</p>
+            <p n="21">21. In ſubmiſſion to theſe Canons, the Church did uſu<g ref="char:EOLhyphen"/>ally reform both in manners and faith, by Dioceſan or Pro<g ref="char:EOLhyphen"/>vinciall
+<pb n="18" facs="tcp:114787:10"/>Councels: as is to be ſeen in the <hi>Code of the <g ref="char:V">Ʋ</g>niverſal Church,</hi> in the <hi>African-Code,</hi> in <hi>Balſamon</hi> and <hi>Zonaras,</hi> in the Councels of <hi>Spain,</hi> and in the Councels of <hi>England,</hi> ſet forth by that pious and worthy Knight Sir <hi>Henry Spelman.</hi> Much in this kind is readily preſented to every eye by our learned Archbiſhop § 24. <hi>n.</hi> 4. Where you may ſee this courſe approved by your own learned men,
+<note n="(f)" place="margin">
+                  <hi>Alb. Mag. in</hi> 1. <hi>Diſt.</hi> 11. <hi>A.</hi> 9.</note> 
+               <hi>Albertus Magnus,</hi> and that
+<note n="(g)" place="margin">
+                  <hi>Gerſon de Gen. Concil. <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>nius obedien. part.</hi> 1. <hi>p.</hi> 222.</note> famous Chancellour of <hi>Paris,</hi> to be not onely lawfull, but ſometimes neceſſary. Indeed to what purpoſe is it, to juſtifie that to be
+<note n="(h)" place="margin">
+                  <hi>Perfecta Sy<g ref="char:EOLhyphen"/>nodus illa eſt, cui intereſt &amp; Me<g ref="char:EOLhyphen"/>tropolitanus E<g ref="char:EOLhyphen"/>piſcopus.</hi> Cod. Eccleſ. univerſ. Can. 95.</note> a full, a <hi>per<g ref="char:EOLhyphen"/>fect Synod,</hi> wherein a <hi>Metropolitan</hi> is preſent, if it may not upon juſt occaſion amend, what is amiſſe within her own precincts? What is it then a perfect Synod for? Other<g ref="char:EOLhyphen"/>wiſe <hi>Iſrael</hi> muſt not have reformed without <hi>Judah,</hi> nor <hi>Judah</hi> without <hi>Iſrael.</hi> Neither muſt <hi>Laodicea</hi> have caſt off her wicked courſes, unleſſe the reſt of the Churches in <hi>Aſia</hi> would have joyned in the Reformation. They, that dare ſay this, are wiſer then God Almighty. For he calls to every one of theſe in particular, to repent, and amend with in themſelves, what is faulty. And though <hi>Timothy</hi> had failed of his duty at <hi>Epheſus,</hi> it had been no excuſe for <hi>Titus</hi> to wink at abuſes and diſorders in <hi>Crete.</hi>
+               <note n="(i)" place="margin">Hoſ. 4.15.</note> 
+               <hi>Though</hi> Iſrael <hi>tranſgreſſe, yet let not</hi> Judah <hi>ſinne.</hi>
+            </p>
+            <p n="22">22. Hitherto my Propoſitions, as you terme them; from whence you inferre, as a neceſſary conſequence, thus;</p>
+            <q>Then by your own ſaying,
+<note place="margin">The Inference.</note> the Catholick Church must be distinct from the Church of <hi>Rome,</hi> and thoſe in her communion.</q>
+            <p>It muſt be ſo, juſt as a reaſonable creature is diſtinct from <hi>Socrates,</hi> the <hi>ſpecies</hi> from the <hi>individuum,</hi> or particular perſon. <hi>Socrates</hi> is a reaſonable creature; but not all, not the onely reaſonable creature: every individual per<g ref="char:EOLhyphen"/>ſon is as much man, as much a reaſonable creature, and hath as much of man in him, as <hi>Socrates.</hi> This will be
+<pb n="19" facs="tcp:114787:10"/>the more eaſily diſcerned, if we look upon St. <hi>Paul</hi>'s com<g ref="char:EOLhyphen"/>pariſon,
+<note n="(k)" place="margin">1 Cor. 12.</note> who likens the Church to a body con<g ref="char:EOLhyphen"/>ſiſting of many members. One member is not the body, nor the body one member, but many. The body receives not life from the members, but every member from the body. The body can live without the hand, or foot, or eye; indeed without all theſe: but none of theſe can live, when ſever'd from the body. The <hi>Catholick Church</hi> hath ſubſiſted without the Church of <hi>Rome,</hi> but the Church of <hi>Rome</hi> can<g ref="char:EOLhyphen"/>not ſubſiſt without the <hi>Catholick.</hi> The Church did ſtand without <hi>Rome,</hi> before <hi>Rome</hi> was a Church. And the Church was viſible in the time of <hi>Marcellinus, Liberius,</hi> and <hi>John</hi> 22. when <hi>Rome</hi> was no member thereof.
+<note n="(l)" place="margin">Cypr. de unit. Eccleſ.</note> 
+               <hi>Adulterari non poteſt Sponſa Chriſti;</hi> though <hi>Rome</hi> defile her ſelfe, the Spouſe of <hi>Chriſt</hi> is not, cannot be made an Harlot. The tree is ſound, though the leaves fall, and one or more branches be broken off. The fountain flows comforta<g ref="char:EOLhyphen"/>bly, though a rivulet be cut off. The reaſon is, becauſe
+<note n="(m)" place="margin">Jer. 2.13.</note> 
+               <hi>Chriſt,</hi> and no particular Church, is the fountain of living waters,
+<note n="(n)" place="margin">8. Jo. 4.14.</note> that ſpring up into everlaſting life. and they that ſeek to him for this water, as they ought, ſhall be ſure to have it. Or, as St. <hi>Cyprian</hi> ſpeaks, the Church is
+<note n="(o)" place="margin">Cypr. de unit. Eccleſ.</note> 
+               <hi>luce Domini perfuſa,</hi> ſhe hath her light not from <hi>Rome,</hi> but from
+<note n="(p)" place="margin">S. Jo. 1.9.</note> that true light, <hi>which enlightens every man, that comes into the world.</hi> And we ſhall be no longer
+<note n="(q)" place="margin">S. Mat. 5.14.</note> the <hi>light of the world,</hi> then we are furniſhed with this light.</p>
+            <p n="23">23. So then, ſince you will needs have it ſo, the time was when there was a neceſſity for the <hi>Catholick Church,</hi> not onely to be <hi>diſtinct,</hi> but diverſe <hi>from the Church of</hi> Rome, <hi>and thoſe in her communion;</hi> otherwiſe there had been no Church. I ſhall give you a ſatisfactory inſtance. When <hi>Liberius</hi> Biſhop of <hi>Rome</hi> turned <hi>Arian,</hi> to recover liberty, and an honorable Biſhoprick; when all <hi>Italy</hi> and <hi>Spain</hi> ſided with him in that hereſie, then was the <hi>Catholick</hi> diſtinct from <hi>Rome,</hi> and thoſe in her communion. For theſe (if we may beleive
+<note n="(r)" place="margin">
+                  <hi>Haeretici non pertinent ad Ec<g ref="char:EOLhyphen"/>cleſiam Catho<g ref="char:EOLhyphen"/>licam.</hi> Aug. Locut. de Deut. l. 5. c. 10.</note> St. <hi>Auſtin</hi> and
+<note n="(s)" place="margin">
+                  <hi>Si Haeretici ſunt, Chriſtiani eſſe non poſſunt.</hi> Tertul. de Prae<g ref="char:EOLhyphen"/>ſcript. c. 37.</note> 
+               <hi>Tertullian</hi>) had no ſhare in the Church, they were not ſo much as Chriſtians, becauſe Hereticks. St. <hi>Hilary</hi> of <hi>Poictieurs</hi> lamented the
+<pb n="20" facs="tcp:114787:11"/>infamous lapſe of this Biſhop, profeſſing publickly thus,
+<note n="(t)" place="margin">
+                  <hi>Hilar. Pict. de Synodis. p.</hi> 287.</note> 
+               <hi>Ex eo intra nos tantum communio Dominica continetur; from that time forward the Lords communion is continued</hi> AMONG US ONELY. <hi>Onely us?</hi> And who are theſe? that he clears ſuddenly after in theſe words;
+<note n="(u)" place="margin">
+                  <hi>Ib. p.</hi> 288.</note> 
+               <hi>Quidam ex vobis fir<g ref="char:EOLhyphen"/>miſſima fidei constantia</hi> INTRA COMMUNIONEM SE MEAM CONTINENTES, SEACAETE<g ref="char:EOLhyphen"/>RIS EXTRA GALLIAS ABSTINUE<g ref="char:EOLhyphen"/>RUNT: Some of you, with a moſt firm conſtancy of faith, <hi>containing themſelves within my communion, abſtained from others without France.</hi> Here then was no communion with <hi>Rome,</hi> unleſſe you can prove <hi>Rome</hi> to be in <hi>France;</hi> and yet, I hope, a <hi>Catholick communion.</hi> Boaſt not then too much of the <hi>Romane Church.</hi> Wee ſee in what ſtate it hath been; and into the ſame ſtate, without Gods great mercy, it may fall again. And when ſuch cauſe is gi<g ref="char:EOLhyphen"/>ven, it ſhall be lawfull for us in like manner, to hold communion within our ſelves, in the three <hi>Britains,</hi> even in <hi>England</hi> onely. And now, I think, I have ſhewed you the <hi>Catholick Church diſtinct from the Church of</hi> Rome, <hi>and thoſe in her communion;</hi> ſuch a one, as would have nothing to doe with <hi>Rome,</hi> while Hereticall.</p>
+            <p n="24">24. I have done with the Propoſitions: your deſire re<g ref="char:EOLhyphen"/>maines, which requires a large library, and a younger man; for your words are theſe;</p>
+            <q>Wherefore I deſire to be ſhewn the Catholick Church distinct from the Church of <hi>Rome,</hi> and thoſe in her communion, for the laſt <hi>1100</hi> years.</q>
+            <p>What? will no leſſe ſerve the turn then 1100 years; and thoſe together? what's the meaning of this? I never undertook any ſuch thing; neither, as I know, hath this Church, or any of the Fathers thereof ſaid any ſuch thing.
+<note n="(x)" place="margin">
+                  <hi>Art.</hi> 19.</note> Our Articles acknowledge the Church of <hi>Rome</hi> to be a Church, and call her ſo. But withall we ſay, that
+<note n="(y)" place="margin">Ib.</note> thoſe of her communion <hi>have erred, not onely in their living and manner of ceremonies, but alſo in matters
+<pb n="21" facs="tcp:114787:11"/>of faith.</hi> And this hath been prettily well proved out of your own men. So a Church it is, though erroni<g ref="char:EOLhyphen"/>ous. We have never declared her to be no Church; neither have our <hi>Articles</hi> hitherto charged her with Here<g ref="char:EOLhyphen"/>ſie; but
+<note n="(z)" place="margin">
+                  <hi>Art.</hi> 22.</note> with <hi>fond doctrines, vainly invented, and founded upon no warranty of Scripture.</hi> Yea, ſomething we blame you with,
+<note n="(a)" place="margin">
+                  <hi>Art.</hi> 29.</note> 
+               <hi>that is repugnant to the plain words of Scrip<g ref="char:EOLhyphen"/>ture.</hi> Foure opinions of this kind my Lord of <hi>Canterbu<g ref="char:EOLhyphen"/>ry</hi> taxeth you with; <hi>viz.</hi>
+               <note n="(b)" place="margin">Archbiſhop <hi>Lawd</hi> §. 33. <hi>n.</hi> 13</note> 1. <hi>Tranſubſtantiation.</hi> 2. <hi>The administration of the bleſſed Sacrament to the Laity in one kind.</hi> 3. <hi>Invocation of Saints: and,</hi> 4. <hi>Adoration of Images.</hi> Ye have not hitherto quitted your ſelves of this Inditement; and while his book ſtands unconfuted, I ſhall beleeve, that ye are juſtly charged with theſe unſound and uncatholick doctrines.</p>
+            <p n="25">25. Beſides, we acknowledge, that
+<note n="(c)" place="margin">
+                  <hi>Art.</hi> 26.</note> 
+               <hi>in the viſible Church the evill be ever mingled with the good. That ſome<g ref="char:EOLhyphen"/>time the evill have chiefe authority in the miniſtration of the Word and Sacraments.</hi> Theſe we deny not to be viſible members of the Church; but grant, that
+<note n="(d)" place="margin">Ib.</note> the <hi>effect of Chriſts Ordinance is not taken away by their wickedneſſe.</hi> Though theſe be bad in and to themſelves, oft-times their calling does good to others, like
+<note n="(e)" place="margin">S. Mat. 23.2. &amp;c.</note> the Scribes and Pha<g ref="char:EOLhyphen"/>riſees in <hi>Moſes</hi> chaire. We are not then ſo forward to make a ſeparation, as ye are taught to beleeve. Indeed, hardly any but the Church of <hi>Rome,</hi> hath been ſo touchy, as to excommunicate whole Churches upon ſlight occaſions.
+<note n="(f)" place="margin">
+                  <hi>Euſeb. hiſt. l.</hi> 5. <hi>c.</hi> 24.</note> What a ſtir did Biſhop <hi>Victor</hi> keep about the obſervation of <hi>Eaſter?</hi> He excommunicated divers Churches, becauſe they would not ſtoop to his lure.
+<note n="(g)" place="margin">Ib.</note> 
+               <hi>Verum iſta caeteris omnibus parum placebant:</hi> but this was little pleaſing to the reſt of the Biſhops, and among them, to that famous Biſhop of <hi>Lyons, Ireneus.</hi> Who with divers other
+<note n="(h)" place="margin">
+                  <hi>Victorem graviùs &amp; acer<g ref="char:EOLhyphen"/>biùs coargue<g ref="char:EOLhyphen"/>bant.</hi> Ib.</note> ſharply checked and reproved him for it. Theſe conſider'd, that no member can cut off another without miſchief to the whole body, even to it ſelf. And the hand ought not to doe it without a commiſſion from the head. For
+<note n="(i)" place="margin">
+                  <hi>Neque quiſ<g ref="char:EOLhyphen"/>quam noſtrum</hi> Epiſcopum <hi>ſe eſſe</hi> Epiſcoporu<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>conſtituit: aut</hi> tyrannico ter<g ref="char:EOLhyphen"/>rore <hi>ad obſe<g ref="char:EOLhyphen"/>quendi neceſſita<g ref="char:EOLhyphen"/>iem collegas ſuos adegit.</hi> Cypr. in Conc. Cart. ag.</note> there is no <hi>Biſhop of Biſhops,</hi> as ye conceive: neither may any one Biſhop ex<g ref="char:EOLhyphen"/>communicate
+<pb n="22" facs="tcp:114787:12"/>another of his own proper authority.
+<note n="(k)" place="margin">
+                  <hi>Apoſt. Can.</hi> 34. <hi>&amp; Cod. Ec<g ref="char:EOLhyphen"/>cleſ. <g ref="char:V">Ʋ</g>niverſ. Can.</hi> 88.</note> This is the work of a Synod of Biſhops. Whoever does it of his own head, offends againſt the practiſe of the Church, the Canons, and Scripture it ſelf.</p>
+            <p n="26">26. Thus alſo
+<note n="(l)" place="margin">
+                  <hi>Euſeb. hiſt. l.</hi> 7. <hi>c.</hi> 4.</note> Biſhop <hi>Steven,</hi> though otherwiſe a good man, carried himſelf very high, about re-baptizing Hereticks. Whether zeal, or that vain conceit of St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>'s Chair tranſported him, I know not; but this I am ſure of, he excommunicated all thoſe, that re-baptized Hereticks. But what ſaid that great Biſhop of <hi>Cappado<g ref="char:EOLhyphen"/>cia, Firmilianus,</hi>
+               <note n="(m)" place="margin">
+                  <hi>Firmilian. apud Cyp. ep.</hi> 75.</note> 
+               <hi>Teipſum excidiſti, noli te fallere,</hi> miſtake not thy ſelf, thou <hi>Biſhop of Rome;</hi> while thou goeſt a<g ref="char:EOLhyphen"/>bout to caſt out others, by this preſumption thou haſt cut off thy ſelf from the body of <hi>Chriſt,</hi> which is his Church. In thoſe days he had no ſuch power. How he ſince came by it, is laid open to your and every bodies eyes, by <hi>Archbiſhop Lawd,</hi> § 25. <hi>n.</hi> 12.</p>
+            <p n="27">27. But why <hi>for the last</hi> 1100 <hi>years?</hi> Is it becauſe ye dare not truſt to the former ages? Wherein we finde
+<note n="(n)" place="margin">
+                  <hi>Lira in</hi> S. Mat. 16.</note> 
+               <hi>Zepherinus</hi> to be a <hi>Montaniſt, Marcellinus</hi> an <hi>Idolater, Liberius</hi> an <hi>Arian,</hi> and <hi>Vigilius</hi> an <hi>Eutychian.</hi> All <hi>Biſhops of Rome,</hi> but no Catholicks. Needs therefore in their times muſt the <hi>Catholick Church be distinct from the Church of Rome.</hi> Or is it becauſe for tryall of the truth of Religion, I ap<g ref="char:EOLhyphen"/>pealed to the 500. years next after our Saviour? I pro<g ref="char:EOLhyphen"/>feſſe, I did, and doe ſo; becauſe it is common in theſe dayes, even with thoſe that conſcientiouſly pretend to truth,
+<note n="(o)" place="margin">
+                  <hi>Tanta eſt quorundam er<g ref="char:EOLhyphen"/>randi libido, ut contenti non ſint traditâ ſemel &amp; acceptâ anti<g ref="char:EOLhyphen"/>quitus credendi regulâ; ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d no<g ref="char:EOLhyphen"/>va ac nova in diem quaerant, ſemper<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> aliquid geſtiant religioni addere, mutare, detrahere.</hi> Vinc. Lirin. c. 26.</note> not to be content with the rule of faith, which was once delivered to the Saints, and received from them by the Primitive Church, and ſo tranſmit<g ref="char:EOLhyphen"/>ted to poſterity. But we have an itching after new in<g ref="char:EOLhyphen"/>ventions; and our glory it is, either to <hi>adde, or alter, or pare off ſomething from Religion.</hi> Theſe courſes I abhorre with a perfect hatred, and am taught to doe ſo by <hi>Ter<g ref="char:EOLhyphen"/>tullian,</hi> and <hi>Vincent. Lirinenſis.</hi> Yea, ſome of your owne Biſhops have reſolved, that
+<note n="(p)" place="margin">
+                  <hi>Ib. c.</hi> 9.</note> Religion admits of no other courſe but this, <hi>ut omnia, qua fide a Patribus ſuſcepta forent, eadem fide filiis conſignarentur;</hi> that all things be
+<pb n="23" facs="tcp:114787:12"/>preſerved for the children with the ſame faith, wherewith they were received from the primitive Fathers. And
+<note n="(q)" place="margin">
+                  <hi>Noſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Reli<g ref="char:EOLhyphen"/>gionem, non quâ vellemus, ducere, ſed potius quâ illa duceret, ſe<g ref="char:EOLhyphen"/>qui oportere.</hi> Ib.</note> we muſt not lead Religion whither we pleaſe; but ra<g ref="char:EOLhyphen"/>ther we muſt follow whither that leads. This was the reſolution of <hi>Stephen Biſhop of Rome,</hi> an holy and pru<g ref="char:EOLhyphen"/>dent man, as <hi>Vincentius</hi> termes him.
+<note n="(r)" place="margin">
+                  <hi>Ib. c.</hi> 43.</note> 
+               <hi>Xiſtus</hi> like<g ref="char:EOLhyphen"/>wiſe and <hi>Celeſtinus</hi> are of the ſame minde, they will en<g ref="char:EOLhyphen"/>dure no <hi>innovations,</hi> no additions to Antiquity. Oh, that <hi>Rome</hi> had always kept cloſe to this rule; then ſhould we have had no ſuch ruptures in the Church, as we now com<g ref="char:EOLhyphen"/>plain of, and bewaile.</p>
+            <p n="28">28. And reaſon good we have to appeal to Antiqui<g ref="char:EOLhyphen"/>ty, which is not partiall towards you, or us, but in<g ref="char:EOLhyphen"/>different to both.
+<note n="(s)" place="margin">
+                  <hi>Ib. c.</hi> 8.</note> She never held it meet to main<g ref="char:EOLhyphen"/>tain the faction, or conſpiracy of any one Province; but
+<note n="(t)" place="margin">
+                  <hi>Apud ipſam Eccleſiae vetu<g ref="char:EOLhyphen"/>ſtatem non par<g ref="char:EOLhyphen"/>tis alicujus, ſed univerſitatis ab iis ſuſcepta eſt defenſio.</hi> Ib.</note> ſhe ſtood up in defence of the whole Church, and not for any part thereof. And he can be no good Chriſtian, that does otherwiſe. St. <hi>Cyprian</hi> is altogether for this courſe;
+<note n="(u)" place="margin">Cypr. Pomp.</note> if any thing be amiſſe, he ſends us to the ſpring head, to finde out the fault. The like counſell is given by <hi>Ireneus,</hi>
+               <note n="(x)" place="margin">
+                  <hi>Iren. l.</hi> 5. <hi>c.</hi> 4.</note> If difference ariſe about any ſmall queſtion, <hi>nonne oporteret in antiquiſſimus recur<g ref="char:EOLhyphen"/>rere Eccleſias, in quibus Apoſtoli converſati ſunt, &amp; ab iis de praeſenti quaeſtione ſumere, quod certum, &amp; quod liquidum eſt? ought we not to have recourſe to the moſt ancient Churches,</hi> (not to that in being) <hi>wherein the Apoſtles themſelves con<g ref="char:EOLhyphen"/>verſed; and from thoſe to take that which is certain and clear about the preſent queſtion.</hi> Obſerve; from thence we ſhall have that, which is <hi>certain.</hi> Why then ſhall we con<g ref="char:EOLhyphen"/>tent our ſelves with uncertainties? That therefore the third Generall Councell might deal <hi>clearly, and upon ſure grounds</hi> with <hi>Neſtorius,</hi>
+               <note n="(y)" place="margin">
+                  <hi>Vincent. Lig<g ref="char:EOLunhyphen"/>rin. c.</hi> 42.</note> it took this very courſe; hol<g ref="char:EOLhyphen"/>ding it to be <hi>Catholiciſſimum, foeliciſſimum, atque optimum factu,</hi> moſt Catholick, moſt happy, and meeteſt to be done, to take into conſideration the ſentences of thoſe holy Fathers, that were before them. Thoſe they took to be <hi>their Masters, their Counſellors, Witneſſes and Judges. Their doctrine they held cloſe to, their counſel they followed,
+<pb n="24" facs="tcp:114787:13"/>to their teſtimony they gave credit, to their judgment they ſub<g ref="char:EOLhyphen"/>mitted, and anſwerably thereto paſſed ſentence</hi> upon the diffe<g ref="char:EOLhyphen"/>rence then in agitation. Blame not us then, if we ap<g ref="char:EOLhyphen"/>peal to the Fathers, and
+<note n="(z)" place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t rite at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſolenniter ex eo<g ref="char:EOLhyphen"/>rum conſenſu at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> docreto</hi> an<g ref="char:EOLhyphen"/>tiqui dogmatis Religio <hi>confir<g ref="char:EOLhyphen"/>maretur, &amp;</hi> pro<g ref="char:EOLhyphen"/>phanae novita<g ref="char:EOLhyphen"/>tis blaſphemia <hi>condemnaretur.</hi> Ib.</note> by their unanimous writings judge of Religion, that ſo we may keep to the old Rules, and avoyd the <hi>blaſphemies of profane novelty.</hi> This was the proper, the onely way then known, and is now, readily to diſcern, without prejudice, preſumption, or partiality, whether ye or we be in the right; what is Ortho<g ref="char:EOLhyphen"/>dox, and what not. At this tribunall let us ſtand, or fall.</p>
+            <p n="29">29. All this will hardly prevail with you. For (ſay you) <hi>if this cannot be ſhewn, it will neceſſarily follow, thoſe were the Catholick Church, or elſe the Catholick Church was not al<g ref="char:EOLhyphen"/>way viſible.</hi>
+            </p>
+            <p>Sir, if you can diſtinguiſh between man <hi>in ſpecie</hi> and <hi>So<g ref="char:EOLhyphen"/>cr<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s,</hi> you may quickly diſtinguiſh between the <hi>Catholick Church and Church of Rome.</hi> For as <hi>man</hi> is ſubſtantially predicated of many differing in number; ſo is the Church. Though St. <hi>Peter</hi> be a man, yet is he not the onely man; <hi>Judas</hi> is a man, as much as he; they both communicate in the ſame eſſence, in the ſame definition; the one is as much a reaſonable creature as the other. And it will not excuſe the Church of <hi>Rome</hi> from being erronious, be<g ref="char:EOLhyphen"/>cauſe it is called a Church, and hath the ſame definition with other Churches. Good and bad, Orthodox and Erronious come not into the definition. The onely defi<g ref="char:EOLhyphen"/>nition, or deſcription, of the <hi>Catholick Church,</hi> that I find in Scripture, is this,
+<note n="(a)" place="margin">1 Tim. 3.15.</note> 
+               <hi>The Church is the pillar and ground of truth.</hi> From whence I argue, thus;</p>
+            <p>That Church, which hath erred, is not the pillar and ground of truth.</p>
+            <p>But the Church of <hi>Rome</hi> hath erred: <hi>Ergo,</hi>
+            </p>
+            <p>The Church of <hi>Rome</hi> is not the pillar and ground of truth.</p>
+            <p>The <hi>Major</hi> is undenyable; the <hi>Minor</hi> I prove thus:</p>
+            <p>That Church which hath profeſſed <hi>Montaniſme, Arianiſme, Eutychianiſme,</hi> hath erred.</p>
+            <pb n="25" facs="tcp:114787:13"/>
+            <p>But the Church of <hi>Rome</hi> hath profeſſed all theſe.</p>
+            <p>
+               <hi>Ergo,</hi> The Church of <hi>Rome</hi> hath erred.</p>
+            <p>The <hi>Major</hi> is clear; and the <hi>Minor</hi> is ſufficiently proved, § 18.27. It follows therefore neceſſarily, that the Church of <hi>Rome,</hi> neither was, nor is the <hi>Catholick Church.</hi> And yet the <hi>Catholick Church</hi> was then viſible, when the Church of <hi>Rome</hi> fell from the Catholick faith, and ceaſed to be a Church.
+<note n="(b)" place="margin">
+                  <hi>Euſeb. hiſt. l.</hi> 5. <hi>c.</hi> 15.</note> 
+               <hi>Montanus,</hi> and his Enthuſiaſmes, were cen<g ref="char:EOLhyphen"/>ſured, and condemned by the Biſhops of <hi>Aſia,</hi> in divers Synods. In thoſe dayes, when <hi>Arianiſme</hi> prevailed at <hi>Rome,</hi> the Catholick Church was viſible
+<note n="(c)" place="margin">
+                  <hi>Theodoret hiſt. l.</hi> 3. <hi>c.</hi> 4.</note> at <hi>Alexandria,</hi> in <hi>Sardinia,</hi> in <hi>France,</hi> and other places; all which adhe<g ref="char:EOLhyphen"/>red to the <hi>Nicene Creed.</hi> We know, that
+<note n="(d)" place="margin">
+                  <hi>Evagr. l.</hi> 1, <hi>c.</hi> 9.</note> 
+               <hi>Eutyches</hi> was condemned at <hi>Conſtantinople,</hi> though his hereſie were received at <hi>Rome.</hi> And thoſe hereſies which were broa<g ref="char:EOLhyphen"/>ched in your beloved City by <hi>John</hi> 22. were at that time deteſted in moſt places of Chriſtendome. Thus the <hi>Catholick Church was alwayes viſible,</hi> when <hi>Rome</hi> it ſelfe failed.</p>
+            <p n="30">30. I have done with your argument; and now, without offence I ſhall return it upon you thus.</p>
+            <p>
+               <hi>I deſire to be ſhewed the body of Chriſt diſtinct from his hand, or arme. And if this cannot be ſhewed, it will neceſſarily follow, that thoſe are the body of Chriſt; or elſe Chriſt hath not alwayes had a body.</hi>
+            </p>
+            <p>This will ſeem a ſtrange Argument; and yet, what anſwer you make, the ſame ſhall I requite you with. For
+<note n="(e)" place="margin">Eph. 1.23. Coloſ. 1.24.</note> the Church is the myſticall body of Chriſt. And
+<note n="(f)" place="margin">1 Cor. 12.14.</note> his body is not one member, but many. The whole body is not the hand; nor the hand the whole body. <hi>For</hi>
+               <note n="(g)" place="margin">
+                  <hi>Ib. v.</hi> 12.</note> 
+               <hi>as the body is one, and hath many members; and all the members of that one body, being many, are one body; ſo alſo is Chriſt.</hi> And ſo is his Church,
+<note n="(h)" place="margin">
+                  <hi>Ib. v.</hi> 13.</note> into which we are baptized. So then (as St. <hi>Chryſoſtome</hi> hath it)
+<note n="(i)" place="margin">Chryſoſt. in loc.</note> 
+               <hi>Et multa unum ſunt, &amp; unum eſt multa; theſe many are one, and this one is many;</hi> many members, and yet
+<pb n="26" facs="tcp:114787:14"/>but one body. As they are a body, all theſe are but one: but as every one of theſe are a ſeverall part, ſo they are different. No part alone by and of it ſelfe can make a body: the beſt member wants the concur<g ref="char:EOLhyphen"/>rence of the reſt, even skin and haire, to make a com<g ref="char:EOLhyphen"/>plete body. In this the meaneſt member bears a part, and the beſt does no more.</p>
+            <p n="31">31. The truth is, I may ſay to you, as St. <hi>Paul</hi> here<g ref="char:EOLhyphen"/>tofore to the <hi>Corinthians;</hi>
+               <note n="(k)" place="margin">1. Cor. 12.27.</note> 
+               <hi>Vos eſtis corpus Christi, &amp; membra ex parte, yee are the body of Chriſt, and members in part,</hi> or members of a member, of the <hi>Weſtern</hi> Church, and ye are no more. All Churches throughout the world, and yours among the reſt, are members of the body of Chriſt; of that body, which is the <hi>Church Ca<g ref="char:EOLhyphen"/>tholick.</hi> And every one of theſe muſt doe their parts, that belong unto them, that the body continue one, and that there be no ſchiſme therein. For though St. <hi>Paul</hi> be pleaſed to call the <hi>Corinthians the body of Chriſt,</hi> yet as St. <hi>Chryſoſtome</hi> obſerves,
+<note n="(l)" place="margin">
+                  <hi>Chryſoſt. in</hi> 1 Cor. 12.</note> 
+               <hi>that Church alone was not the whole body; but the Catholick diſperſed through the whole world. He ſaith therefore</hi> IN PART, <hi>or</hi> FOR PART; <hi>that ſo they may underſtand themſelves to be but</hi> pars quaedam, <hi>ſome part of that body, which is made up of all Churches. That ſo we may endevour not onely to have peace among our ſelves, but with the whole Church throughout the earth; ſince we are all members of this Catholick body.</hi> God give all of us grace to learn this leſſon; and to remember, that the foot is no leſſe a part, then the eye: and that neither of theſe alone, nor yet both in con<g ref="char:EOLhyphen"/>junction can make a body, but as they are conjoyned with the reſt of the members. Content your ſelves then, ye are but <hi>membra de membro,</hi> members in part, members of a member: ye muſt be knit to the other parts, before ye can grow up into a body. Indeed had there been no other but your ſelves, the Church had been utterly extinct, when time was, not ſo much as a ſound member left.</p>
+            <pb n="27" facs="tcp:114787:14"/>
+            <p n="32">32. Now ſince you preſſe ſo <hi>for the laſt</hi> 1100 <hi>yeers,</hi> give me leave to tell you, in what ſtate <hi>Rome</hi> was, for a great part of that time, you call for.
+<note n="(m)" place="margin">
+                  <hi>Stapleton. Relect. cont.</hi> 1. <hi>q.</hi> 5. <hi>A.</hi> 3.</note> From 800 yeers after <hi>Chriſt</hi> ſhe hath been foulely ſtained with all ſins al<g ref="char:EOLhyphen"/>moſt imaginable. <hi>Schiſme</hi> was raiſed there, and main<g ref="char:EOLhyphen"/>tained with bribery, and bloud enough, if <hi>Platina</hi> and <hi>Onuphrius</hi> ſpeak right.
+<note n="(n)" place="margin">
+                  <hi>Stella in Luc.</hi> 22.31.</note> 
+               <hi>Stella</hi> and
+<note n="(o)" place="margin">
+                  <hi>Almain. l.</hi> 3. <hi>D.</hi> 24. <hi>q.</hi> 1.</note> 
+               <hi>Almain</hi> charge her with hereſie. And <hi>Lira</hi> profeſſeth, that
+<note n="(p)" place="margin">
+                  <hi>Lira in</hi> Mat. 16.</note> 
+               <hi>many of the chief therein, and the Popes themſelves did apoſtatize from the faith.</hi> Five he names, 1. <hi>Zepherinus</hi> a Montaniſt: 2. <hi>Marcellinus</hi> an Idolater: 3. <hi>Liberius</hi> an Arian: 4. <hi>Vigi<g ref="char:EOLhyphen"/>lius</hi> an Eutychian: and 5. <hi>Honorius</hi> a Monothelite.
+<note n="(q)" place="margin">
+                  <hi>Genebrard. Chron. l.</hi> 4. <hi>An.</hi> 991.</note> 
+               <hi>Genebrard</hi> tells us, of about 50 Popes, that did ſo far de<g ref="char:EOLhyphen"/>generate from the virtue of their predeceſſors, that they were <hi>Apoſtatici potius, quam Apostolici, Apoſtaticall rather then Apoſtolicall.</hi> And yet this muſt be the onely Catho<g ref="char:EOLhyphen"/>lick Church.</p>
+            <p n="33">33. <note n="(r)" place="margin">
+                  <hi>Aven. Annal. Boior. l.</hi> 5. <hi>p.</hi> 447.</note> 
+               <hi>Aventinus</hi> complaines, that for 450 yeers, the Popes of <hi>Rome</hi> did ſo trample all things under their feet, <hi>ut inferos ſuperos in ſervitutem redegerint,</hi> that they brought heaven and hell to their beck, and made theſe doe, what they pleaſed. And
+<note n="(s)" place="margin">P. de Aliaco de Reform. Rom. Eccleſ. tit. de Reform. Reli.</note> 
+               <hi>Petrus de Aliaco</hi> a Cardinal, that was preſent in the Councel of <hi>Conſtance,</hi> profeſſeth, that in thoſe dayes the Church was come to that paſſe, <hi>ut non ſit digna regi niſi a reprobis,</hi> that it was worthy to be go<g ref="char:EOLhyphen"/>verned by none but reprobates. This he ſpeaks of that Church, you magnifie ſo much.
+<note n="(t)" place="margin">
+                  <hi>Baro. Annal. Ann. Chriſti</hi> 908. <hi>n.</hi> 5. <hi>&amp; Ann.</hi> 93 1. <hi>n.</hi> 1.</note> 
+               <hi>Baronius</hi> confeſſeth, that there was a time, when <hi>Marozia</hi> and her daughter (a couple of lewd ſtrumpets) diſpoſed of the Popedome for many yeers; ſo that none poſſeſſed that Chaire but Boyes, Fooles, and Knaves: complaining that in thoſe dayes, <hi>Chriſt</hi> lay aſleep in the head of the ſhip. Where was then the <hi>holy Catholick Church?</hi> How think you? was it then at <hi>Rome?</hi>
+            </p>
+            <p n="34">34. <note n="(u)" place="margin">
+                  <hi>Alphonſ. de Caſt. c. Haereſ. l.</hi> 1. <hi>c.</hi> 4.</note> 
+               <hi>Alphonſus de Caſtro</hi> teſtifies, that divers <hi>Romane</hi> Popes were ſo illiterate, that they were wholly unac<g ref="char:EOLhyphen"/>quainted with Grammar.
+<note n="(x)" place="margin">
+                  <hi>Alvar. Pel. de Planct. Eccle. l.</hi> 2. <hi>Ar.</hi> 5.</note> 
+               <hi>Alvarez Pelagius</hi> gives us this account for his time; <hi>Hodie in Eccleſia deficit ſpiritus
+<pb n="28" facs="tcp:114787:15"/>prophetiae,</hi> that the <hi>ſpirit of Propheſie did ſo faile, the Church, that thoſe words were fulfilled,</hi> 3. Reg. 22. <hi>I will goe forth, and I will be a lying ſpirit in the mouth of all his Prophets.</hi> And yet <hi>Baronius</hi> profeſſeth, that
+<note n="(y)" place="margin">
+                  <hi>Plane appa<g ref="char:EOLhyphen"/>ret</hi> ex arbitrio dependiſſe Ro<g ref="char:EOLhyphen"/>mani Pontifi<g ref="char:EOLhyphen"/>cis, <hi>fidei decreta ſancire, &amp; ſan<g ref="char:EOLhyphen"/>cita mutare.</hi> Baron. An. 373 n. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>it is plainly evident, that it depended upon the Popes pleaſure, to enact Decrees of faith, and to reverſe thoſe, that were enacted.</hi> Was not here a Church well governed there while?
+<note n="(z)" place="margin">
+                  <hi>Quomodo poſſunt integri<g ref="char:EOLhyphen"/>tati &amp; conti<g ref="char:EOLhyphen"/>nentiae praeeſſe, ſi ex ipſis inci<g ref="char:EOLhyphen"/>piant corrupte<g ref="char:EOLhyphen"/>lae, &amp; vitiorum magiſteria pro<g ref="char:EOLhyphen"/>ced re?</hi> Cypr. l. 1. ep. 11.</note> Was it poſſi<g ref="char:EOLhyphen"/>ble, ſuch Biſhops ſhould reforme abroad, what they practiſed, and countenanced at home? In thoſe drowſie, illiterate, and Apoſtaticall times, <hi>John</hi> 22. broached his damnable hereſies. And in thoſe times, in all probability, were thoſe ſtrange doctrines hatched, and many of thoſe abuſes induced, we now proteſt againſt. Somewhere then the Church was viſible, when inviſible at <hi>Rome.</hi> And occaſion is given us to preſume, that in this very Iſland it was viſible; ſince <hi>Eraſmus</hi> profeſſeth, that in all his travels he found <hi>learned Biſhops in England onely.</hi> And for many yeers, we know, the <hi>Greek</hi> Church had ſmall cor<g ref="char:EOLhyphen"/>reſpondence or communion with the <hi>Latines;</hi> and yet a viſible Church for all this. Neither can I doubt, but in other countries, even in <hi>Italy,</hi> there were ſome lear<g ref="char:EOLhyphen"/>ned Biſhops, that knew the Canons of the Church, and full well underſtood, that
+<note n="(a)" place="margin">
+                  <hi>Conc. Epheſ. can.</hi> 1.</note> hereſie diſcharges not onely the <hi>Biſhop</hi> from his <hi>Metropolitan,</hi> but
+<note n="(b)" place="margin">
+                  <hi>Ib. can.</hi> 3.</note> the <hi>Clark</hi> from ſubjection to his <hi>Biſhop.</hi> The <hi>Church of Rome</hi> then muſt pardon us, if we withdrew our ſelves from her <hi>Biſhops,</hi> when they fell into Apoſtaſie, or hereſie. And all good men will acquit us, for reforming abuſes at home, accor<g ref="char:EOLhyphen"/>ding to our duty. We have good warrant for what we doe, even the authority of the whole Church repreſen<g ref="char:EOLhyphen"/>tative.</p>
+            <p>Sir, I have done. If you be offended, that I have ſtirred too much in theſe loathſome puddles, conſider, I beſeech you, that you ſet me upon this unpleaſing <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ask. What I have done, was at your deſire, and ac<g ref="char:EOLhyphen"/>cording
+<pb n="29" facs="tcp:114787:15"/>to your directions <hi>Christ</hi> knows, I have no private, or by end, in theſe my writings; it is your ſatisfaction and ſalvation, which I deſire, and endeavour. God of his mercy give a bleſſing to theſe my labours, and to you an humble and diſcerning ſpirit, that you may ſee the truth, and embrace it: So prayes</p>
+            <closer>
+               <signed>Your unworthy friend <hi>Edward Boughen.</hi>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Ab adverſario mota quaeſtio, diſcendi exiſtit occaſio.</hi> Aug. de Civit. Dei. l. 16. c. 2.</bibl>
+                  <p>Where was our Church before <hi>Luther?</hi> It was juſt there, where yours is now. One and the ſame Church ſtill, no doubt of that. One in <hi>ſubſtance;</hi> but not one in <hi>condition</hi> of ſtate and purity: your part of the ſame Church re<g ref="char:EOLhyphen"/>maining in <hi>corruption;</hi> and our part of the ſame Church under <hi>reformation.</hi> The ſame <hi>Naaman,</hi> and he a <hi>Syrian</hi> ſtill, but <hi>leprous</hi> with you, and <hi>cleanſed</hi> with us. The ſame man ſtill. <hi>Archbiſhop Lawd. Ep. Ded.</hi> §. Now one thing.</p>
+               </q>
+            </epigraph>
+         </div>
+         <div type="letter">
+            <pb n="30" facs="tcp:114787:16"/>
+            <head>For <hi>Edward Boughen,</hi> Doctor in Divinity:</head>
+            <head type="sub">Theſe are.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p n="1">I. YOur papers I received ſome moneths ſince, and for your great pains therein I humbly thank you. The effect of them is this, <hi>(viz.)</hi> a Reſolution that there can be no Church ſhewed through the whole world for many hundred years before <hi>Luther,</hi> but the Church of <hi>Rome,</hi> and thoſe in her communion; for if there could, I preſume your learning is ſuch you would have known it, and your charity ſuch that being deſired you would have ſhewed it me.</p>
+            <p n="2">II. My originall doubt was, that ſith the Ca<g ref="char:EOLhyphen"/>tholick Church muſt be alway viſible, and that I could not by my beſt enquiry finde, that a ſucceſ<g ref="char:EOLhyphen"/>ſion of men profeſſing the doctrine of the Church of <hi>England,</hi> had been alway viſible, that that Church was not the, nor any part of the Catholick Church. To this doubt at our conference you endevoured my ſatisfaction, by attempting to prove, that though the Church of <hi>England</hi> had not been alway viſible, (at
+<pb n="31" facs="tcp:114787:16"/>leaſt not ſeen) yet ſeeing ſhe is but a member of the Catholick Church, of which the Church of <hi>Rome</hi> is another; it was ſufficient that the Catholick Church had been alway viſible in the Church of <hi>Rome,</hi> and other particular Churches, though not in the Church of <hi>England.</hi>
+            </p>
+            <p n="3">III. That diſcourſe then did give me no ſatis<g ref="char:EOLhyphen"/>faction, becauſe although you ſaid that the Church of <hi>Rome</hi> was a member of the Catholick; yet the 19<hi rend="sup">th.</hi> Article of your Church ſayes, <hi>That the viſible Church of Chriſt is a Congregation of faithfull men, in the which the pure Word of God is preached, and the Sacraments be duly adminiſtred, according to Chriſts ordinance in all thoſe things that of ne<g ref="char:EOLhyphen"/>ceſſity are requiſite to the ſame:</hi> And in divers other your Articles your Church condemnes the Church of <hi>Rome</hi> for not preaching the <hi>pure Word of God:</hi> As in the 22<hi rend="sup">th.</hi> concerning <hi>Purgatory, Pardons, Wor<g ref="char:EOLhyphen"/>ſhipping of Images and Reliques,</hi> and <hi>Invocation of Saints:</hi> And in the 24<hi rend="sup">th.</hi> concerning the <hi>Publick prayers in the Church, and the miniſtring of the Sa<g ref="char:EOLhyphen"/>craments in a tongue not underſtood of the people:</hi> In the 31<hi rend="sup">th.</hi> concerning the <hi>Sacrifice of the Maſſe for quick and dead,</hi> which that your Article calls <hi>blaſphe<g ref="char:EOLhyphen"/>mous fables, and dangerous deceits.</hi>
+            </p>
+            <p n="4">IV. And for not <hi>duly adminiſtring the Sacra<g ref="char:EOLhyphen"/>ments:</hi> In the 30<hi rend="sup">th.</hi> Article you ſay, <hi>The Cup of the Lord is not to be denied to Lay-people: For both the parts of the Lords Sacraments by Chriſts ordinance and commandement, ought to be admini<g ref="char:EOLhyphen"/>ſtred to all Chriſtian men alike.</hi> So then by the Ar<g ref="char:EOLhyphen"/>ticles of your Church, the Church of <hi>Rome</hi> doth nei<g ref="char:EOLhyphen"/>ther
+<pb n="32" facs="tcp:114787:17"/>preach the <hi>pure Word of God, nor duly admini<g ref="char:EOLhyphen"/>ſter the Sacraments,</hi> and that in thoſe things that are of <hi>neceſſity requiſite for the ſame,</hi> as appeares by your ſeparation; for your beloved
+<note n="*" place="margin">fo. 195. or 7. againſt <hi>F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſher.</hi>
+               </note> Archbiſh. <hi>Lawd</hi> ſays it is not lawfull to make a ſeparation for points not neceſſary: And if you ſay you did not make the ſeparation, but the Church of <hi>Rome,</hi> then <hi>Luther, Tin<g ref="char:EOLhyphen"/>dall,</hi> &amp;c. did not goe out of the Church of <hi>Rome,</hi> but the Church of <hi>Rome</hi> out of them.</p>
+            <p n="5">V. Therefore I had reaſon ſtill, as in my Letter, to demand a Church diſtinct from the Church of <hi>Rome,</hi> and thoſe in her communion, of which no man that reads your anſwer, can thereby I think receive ſa<g ref="char:EOLhyphen"/>tisfaction: For the whole drift and ſcope of your papers is either to prove; Firſt, that the Church of <hi>Rome</hi> and thoſe in her communion, is not the Catho<g ref="char:EOLhyphen"/>lick Church; or elſe Secondly, that the Church of <hi>Rome,</hi> and thoſe in communion with her, and the Church of <hi>England</hi> are but one, that is, ſeverall mem<g ref="char:EOLhyphen"/>bers of one Church.</p>
+            <p n="6">VI. For the firſt, that the Church of <hi>Rome</hi> and thoſe in communion with her, was not the Catho<g ref="char:EOLhyphen"/>lick Church for that time I required; you ſhew no proof that I doe finde, but that ſome of the Popes have been either Hereticks, or Schiſmaticks; which if ad<g ref="char:EOLhyphen"/>mitted (though it is not) to be ſo in ſome of them for that time, yet it doth not make that whole Church to be Hereticall or Schiſmaticall: For I beleeve you will yeeld that the King of <hi>England,</hi> or Archbiſhop of <hi>Canterbury,</hi> may be an Heretick or Schiſmatick, and yet the Church of <hi>England</hi> be ſtill part of the Catholick Church. But if it were granted
+<pb n="33" facs="tcp:114787:17"/>that the Popes of <hi>Rome</hi> being Schiſmaticks or Here<g ref="char:EOLhyphen"/>ticks, ſhould annihilate that Church, yet that could give me no ſatisfaction, who required not, where is not the Catholick Church, but where it is, that I might communicate with it.</p>
+            <p n="2">2. For the ſecond, that the Church of <hi>Rome</hi> and thoſe in her communion, and the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> are but ſeverall members of the <hi>One</hi> Catholick Church: That I conceive cannot be: 1. For the reaſons inferred from the Articles of your Church, as above. 2. For that the Articles of Faith of both Churches are directly contradictory, as appears by many your negative Articles: And Mr. <hi>Hooker</hi> ſayes <hi>li.</hi> 3. <hi>fo.</hi> 84. <hi>That the Children of the viſible Church are ſigned with this marke, One Lord,</hi> ONE FAITH, <hi>One Baptiſme.</hi> 3. Your ſelf <hi>Sect.</hi> 24. charges the Church of <hi>Rome</hi> with errors in matters of Faith, no leſſe then in 4. points, <hi>(viz.) Tranſubſtan<g ref="char:EOLhyphen"/>tiation, Communion in one kind, Invocation of Saints,</hi> and <hi>Adoration of Images,</hi> and how you do diſtinguiſh between errors in matter of Faith, pertinaciouſly (as you will ſay) held, and Hereſie, I would willingly hear, and if guilty of Hereſie, then by your ſayings out of St. <hi>August. Haereſis enim Sponſa Chriſti non eſt:</hi> And <hi>Haeretici non pertinent ad Eccleſiam Catholicam;</hi> ſhe is no part of the Catholick Church. And in <hi>Sect.</hi> 11. you charge the Church of <hi>Rome, That ſhe hath moſt ſacrile<g ref="char:EOLhyphen"/>giouſly robbed the Laity of Chriſts blood.</hi> 4. Chriſts my<g ref="char:EOLhyphen"/>ſticall body is but one, and although that body is made up of many members, yet all thoſe members muſt co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>municate one w<hi rend="sup">th</hi> another, for if a member be ſeparated but by ſchiſm, it is like an arm cut off from the body,
+<pb n="34" facs="tcp:114787:18"/>or a branch from the vine (your owne ſimilies) which makes that arm or branch no part of the body or vine.</p>
+            <p n="8">VIII. And that the Church of <hi>Rome</hi> and <hi>England</hi> are ſeparated by ſchiſme, I think none will deny, for they doe abhorre mutuall communion in divine wor<g ref="char:EOLhyphen"/>ſhip, Sacraments, Prayers, and holy Rites; and no Proteſtant will frequent Catholick ſervice, eſpecially in the holy Sacrifice of Maſſe. Moreover, Catholicks excommunicate Proteſtants every year, and Prote<g ref="char:EOLhyphen"/>ſtants did frequently Catholicks in <hi>England.</hi> And by publick Statutes and Laws of the Land, any one who ſhould reconcile one of the Church of <hi>England,</hi> to the Church of <hi>Rome,</hi> is guilty of death; but a Prieſt that ſhall celebrate Maſſe is made guilty of high Treaſon: How therefore can One Church, Chriſts myſticall body, grow up together of ſuch different members? And your ſelf ſay <hi>Sect.</hi> 19. that ſince the Reformation you have not communicated with the Church of <hi>Rome.</hi>
+            </p>
+            <p n="9">IX. The Church of <hi>Rome</hi> and <hi>England</hi> being thus ſeparated, both in Faith and Communion, and ſo not one: And the Church of <hi>Rome</hi> and thoſe in communi<g ref="char:EOLhyphen"/>on with her, by your ſaying not being the Catholick Church: my deſire (to be ſhewed the Catholick Church, or the Church of <hi>England</hi> diſtinct from the Church of <hi>Rome</hi> and thoſe in her communion, for the laſt 1100 years, or for ſo long as you pleaſe to ſay the Church of <hi>Rome</hi> hath ſo grievouſly erred, that you dare not communicate with her) is not, nor by your Papers can be ſatisfied.</p>
+            <p>Thus beſeeching Almighty God to look favourably into the ſouls decei<g ref="char:EOLhyphen"/>ved by devilliſh deceits, that all hereticall impieties removed, the hearts of them that erre may relent, and returne to the unity of his truth: I humbly take leave and reſt.</p>
+            <closer>
+               <signed>Your moſt unworthy Servant <hi>T. B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="35" facs="tcp:114787:18"/>
+            <head>For M<hi rend="sup">r.</hi> 
+               <hi>T. B.</hi> An Anſwer to his ſecond Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p n="1">I. <seg rend="decorInit">I</seg> Have heretofore manifeſted, that
+<note n="(a)" place="margin">§ 2.</note> there were Chur<g ref="char:EOLhyphen"/>ches in <hi>Judea,</hi> in <hi>Galilee</hi> and <hi>Samaria,</hi> before ever there was a Church at <hi>Rome.</hi> 2<hi rend="sup">ly.</hi> That
+<note n="(b)" place="margin">Ib.</note> there was a Catho<g ref="char:EOLhyphen"/>lick Church, when the Apo<g ref="char:EOLhyphen"/>ſtles Creed was compiled and beleeved; and yet no Church at <hi>Rome.</hi> 3<hi rend="sup">ly.</hi> After <hi>Rome</hi> be<g ref="char:EOLhyphen"/>came a Church, ſhe ceaſed to be Orthodoxe; in ſo much, that
+<note n="(c)" place="margin">§ 23.</note> in the time of St. <hi>Hilary</hi> of <hi>Poicteurs</hi> there was at <hi>Rome</hi> no Church, no Communion of Saints. She, and thoſe in communion with her, were Hereticall, and com<g ref="char:EOLhyphen"/>plyed with <hi>Arius.</hi> And yet in <hi>France,</hi> at that very inſtant, there was a Catholick, an Orthodox Church; as alſo
+<note n="(d)" place="margin">§ 29.</note> at <hi>Alexandria,</hi> and in <hi>Sardinia.</hi> 4<hi rend="sup">ly.</hi>
+               <note n="(e)" place="margin">§ 18.27.29.</note> No Church at <hi>Rome</hi> under <hi>Zepherinus</hi> a Montaniſt, <hi>Marcellinus</hi> an Idolater, <hi>Liberius</hi> an Arian, <hi>Vigilius</hi> an Eutychian, and under <hi>John</hi> the 22. that Monſter of Hereticks. And yet in thoſe dayes
+<pb n="36" facs="tcp:114787:19"/>the Church was in <hi>Aſia, Alexandria, Sardinia, Cappadocia, France,</hi> and other places. And all theſe, I hope, before <hi>Lu<g ref="char:EOLhyphen"/>ther,</hi> and after <hi>Rome</hi> had been Catholick. And yet the effect of all this is, a reſolution in you, that
+<note n="(f)" place="margin">
+                  <hi>n.</hi> 1.</note> 
+               <hi>there can be no Church ſhewed through the whole world for many hun<g ref="char:EOLhyphen"/>dred yeers before</hi> Luther, <hi>but the Church of</hi> Rome, <hi>and thoſe in her communion.</hi> For ſome hundred yeers then, it ſeems, there may; and if for ſome, perchance for more.</p>
+            <p n="2">2. All this is to imply, as if no Church without <hi>Rome;</hi> as if all theſe were no Churches, becauſe they did not communicate with <hi>Rome</hi> in her damnable hereſies. If no Church but <hi>Rome, and thoſe in her communion,</hi> then was there no Church at all for many hundred yeers, ſince <hi>Rome</hi> was no Church, while <hi>Arian,</hi> or <hi>Eutychian,</hi> or worſe. From whence then borrow you theſe grounds, and take up this <hi>reſolution?</hi> Becauſe <hi>Rome</hi> ſometimes embraced <hi>Monta<g ref="char:EOLhyphen"/>niſm,</hi> ſometimes <hi>Eutychianiſm, Arianiſm, Apoſtatiſm,</hi> therefore no Church but <hi>Rome.</hi> Or as if <hi>Aſia, Alexandria, Sardinia, France,</hi> and <hi>Cappadocia</hi> were no part of the world. For in thoſe places there were Catholick Churches, when none at <hi>Rome.</hi> Or elſe that Church, becauſe the <hi>Romane,</hi> was Catholick, though never ſo hereticall. Thus the Faith ſhall be tryed by <hi>Rome,</hi> and not <hi>Rome</hi> by the Faith. Com<g ref="char:EOLhyphen"/>municate with <hi>Rome,</hi> and all's well.</p>
+            <p n="3">3. Next therefore you ſcoffingly adde;
+<note n="(g)" place="margin">Ib.</note> 
+               <hi>for if there could, I preſume, your learning is ſuch, you would have known it; and your charity ſuch, that being deſired, you would have ſhewed it me.</hi> Sir, my <hi>learning</hi> is ſuch, I bleſſe God, that I doe know it; and my <hi>charity</hi> ſuch, that, upon your de<g ref="char:EOLhyphen"/>ſire, I have <hi>ſhewed</hi> it you. But your eyes and <hi>reſolution</hi> are ſuch, that you will not ſee it. Thus with
+<note n="(h)" place="margin">
+                  <hi>Senec. ep.</hi> 51.</note> 
+               <hi>Harpaſte, Seneca</hi>'s wives fool, the houſe is dark, when you are blind, not caſually, but wilfully.</p>
+            <p n="4">4. In your former Letter your deſire was, <hi>that I would ſhew you the Catholick Church distinct from the Church of</hi> Rome, <hi>and thoſe in communion with her.</hi> This I did in my former Anſwer, plainly and fully, § 1.22, 23, 29. That in
+<pb n="37" facs="tcp:114787:19"/>this you might receive ſatisfaction, I grant, that <hi>The Ca<g ref="char:EOLhyphen"/>tholick Church was alwayes viſible from the Apoſtles times to this preſent day;</hi> even then, when there was no Church at <hi>Rome,</hi> § 5. <hi>&amp;c.</hi> Next, I have therein proved, that
+<note n="(i)" place="margin">§ 10.</note> 
+               <hi>The Church of</hi> Rome, <hi>and thoſe in communion with her, are not,</hi> cannot be, <hi>the Catholick Church.</hi> A member indeed of the Catholick Church ſometimes ſhe was, and ſome<g ref="char:EOLhyphen"/>times ſhe was not. When <hi>Orthodox,</hi> ſhe was a member of the Catholick; but while Hereticall or Schiſmatical, ſhe was no Church, much leſſe <hi>the one Catholick.</hi> That the <hi>Romane</hi> Church hath been dangerouſly Hereticall, is manifeſted § 16, 17, 18, 23. That ſhe hath been miſera<g ref="char:EOLhyphen"/>bly Schiſmaticall, is acknowledged by your own men, § 3. Thus <hi>that Church hath grievouſly erred, and in</hi> more then <hi>one fundamentall.</hi> And yet the Catholick hath been alwayes viſible, though oft-times inviſible at <hi>Rome;</hi> un<g ref="char:EOLhyphen"/>leſſe errors and hereſies prove Catholick, becauſe profeſſed at <hi>Rome.</hi>
+            </p>
+            <p n="5">5. All this your Tutors reply not to, nor hardly take notice of; but have directed you to fall from your for<g ref="char:EOLhyphen"/>mer deſires upon new queſtions; tempting me, as the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi> did our Saviour; but reſolving to receive no an<g ref="char:EOLhyphen"/>ſwer. Thus you put me to more trouble, not with a mind to be ſatisfied, but meerly to cavill; and to ſlide over thoſe arguments and teſtimonies, which they are not able to anſwer, or diſprove. Is not this to ſpeak nothing, leſt you ſhould ſeem to be ſilent? Are theſe things, which I have delivered, true or falſe? If true;
+<note n="(k)" place="margin">
+                  <hi>A qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> verum dicitur, illo inſpirante dicitur, qui &amp; ipſe veritas eſt.</hi> Aug. ep. 28.</note> let truth prevaile. If falſe, diſprove them; if im<g ref="char:EOLhyphen"/>pertinent, manifeſt it. Otherwiſe, if you thus ſeek evaſions, you will enforce me to acquaint the world with your ſhifts and ſhufflings, by publiſhing theſe papers; that every eye may diſcern, what is the weakneſſe of your cauſe, and what your obſtinacy.</p>
+            <p n="6">6. Your intent being to decline, what you cannot an<g ref="char:EOLhyphen"/>ſwer, you divert me from the former buſineſſe thus;
+<note n="(l)" place="margin">
+                  <hi>n.</hi> 2.</note> 
+               <hi>My originall doubt was</hi> (ſay you) <hi>that ſith the Catholick Church muſt be alway viſible, and that I could not by my beſt inquiry
+<pb n="38" facs="tcp:114787:20"/>finde, that a ſucceſſion of men, profeſſing the doctrine of the Church of</hi> England, <hi>had been alway viſible, that that Church was not the, nor any part of the Catholick Church.</hi> What have I to doe with <hi>your originall doubt?</hi> Your Letter, and the expreſſion of your deſire I looked upon; I endeavou<g ref="char:EOLhyphen"/>red to ſatisfie your requeſt; and, I preſume, a ſatisfactory anſwer was given to your demands, that ſo I might <hi>win a ſoul,</hi> not ſo much <hi>to our Church,</hi> as to the Commu<g ref="char:EOLhyphen"/>nion of Saints; and to lead you out of error into the way of truth. That the <hi>Catholick Church</hi> is, hath been, and <hi>muſt be alway viſible,</hi> is agreed on both hands. But <hi>by your beſt enquiry you could not finde, that a ſucceſſion of men, profeſſing the doctrine of the Church of</hi> England, <hi>had been al<g ref="char:EOLhyphen"/>way viſible.</hi> No more could the <hi>Phariſees</hi> ſee the Prophe<g ref="char:EOLhyphen"/>ſies, that concerned our Saviour, though never ſo viſi<g ref="char:EOLhyphen"/>ble. Alas, poore Gentleman, little Learning are you troubled with; you are not able to ſearch the Scrip<g ref="char:EOLhyphen"/>tures, Councels, and Fathers, as you ought: and <hi>your enquiry</hi> hath been of ſuch, as are either ignorant, or wil<g ref="char:EOLhyphen"/>fully blinde, and bent to miſguide you.</p>
+            <p n="7">7. <hi>The doctrine of the Church of England</hi> is cleare in our <hi>Book of Common-prayer:</hi> that is the rule for the Laity; and ſuch as the true Catholick Church hath alwayes im<g ref="char:EOLhyphen"/>braced, and continued. All therein is poſitive. The <hi>Book of Articles</hi> is a rule for the Clergy, to preſerve them from error; and much therein is negative. He, that means ſincerely to inſtruct you ſo in the right way, that you may be a guide to others, muſt give you di<g ref="char:EOLhyphen"/>rections to avoyd the by-paths. The poſitive doctrine of this Church was ever profeſſed, and is viſible in all Catholick writers. But you inſiſt upon no particulars, and guile lurks under generalls. But, I beſeech you, before you turned over to the Church of <hi>Rome,</hi> why did not you make the like <hi>enquiry, to finde out a ſucceſſion of men profeſſing the doctrine of the Church of Rome,</hi> in thoſe particulars, wherein we diſſent from them of that Com<g ref="char:EOLhyphen"/>munion? If thus you had done, you might eaſily have diſcerned, that <hi>that Church is not the, nor any part of the
+<pb n="39" facs="tcp:114787:20"/>Catholick Church,</hi> if wee goe by your line. For the moſt skilfull of your party are not able to ſhew ſuch a ſucceſſion of men, in the firſt 700 years of Chri<g ref="char:EOLhyphen"/>ſtianity.</p>
+            <p n="8">8. But you are pleaſed to adde; that
+<note n="(m)" place="margin">
+                  <hi>n.</hi> 2.</note> 
+               <hi>to this doubt, at our conference, I endeavoured your ſatisfaction, by attempting to prove, that though the Church of</hi> England <hi>had not been al<g ref="char:EOLhyphen"/>way viſible, (at leaſt not ſeen) yet ſeeing ſhe is but a member of the Catholick Church, of which the Church of</hi> Rome <hi>is ano<g ref="char:EOLhyphen"/>ther, it was ſufficient that the Catholick Church had been alway viſible in the Church of</hi> Rome, <hi>and other particular Churches, though not in the Church of</hi> England. Good God, what foreheads have men! Is this, could this poſſibly be my anſwer? Who alwayes juſtifie, that this Church hath been viſible ſince the firſt or ſecond Converſion; though not alwayes under Reformation. And for <hi>Rome,</hi> I have demonſtrated, that the Catholick Church was not alway viſible in that City, or Dioceſe, § 22, 23, 29. As alſo what kind of Church yee had for 450 yeers toge<g ref="char:EOLhyphen"/>ther, § 33. when hardly the form either of Religion or a Church was there to be ſeen. Yet viſible it was here, when inviſible at <hi>Rome.</hi> For you can never ſhew, that this Church was overrun with <hi>Montaniſm, Arianiſm,</hi> or <hi>Eutychianiſm.</hi> Yea, this was a learned and pious Church, when yours was miſerably poſſeſt with ignorance and impiety. Look upon your owne Mr. <hi>Pits</hi> his Cata<g ref="char:EOLhyphen"/>logue of our Writers, and this will manifeſtly ap<g ref="char:EOLhyphen"/>peare.</p>
+            <p n="9">9. However then
+<note n="(n)" place="margin">
+                  <hi>n.</hi> 3.</note> 
+               <hi>that diſcourſe,</hi> which I ſent unto you, <hi>gave you no ſatisfaction,</hi> yet it abundantly clears the queſtions propoſed in your Letter. Neither can I poſ<g ref="char:EOLhyphen"/>ſibly expect to withdraw you from that faction, who are reſolved to receive no ſatisfaction, unleſſe we grant, that the Church of <hi>Rome,</hi> and thoſe in communion with her, are the onely Catholick Church. And yet I never reade in Fathers or Councels, that <hi>to communicate with Rome</hi> is either a ſure, or any token of a good Catholick. St. <hi>Au<g ref="char:EOLhyphen"/>ſtine</hi> aſſures us, that
+<note n="(o)" place="margin">
+                  <hi>Aug. quaeſt. Evangel. ſecund. Mat. c.</hi> 12.</note> 
+               <hi>they are good Catholicks, qui &amp; fidem
+<pb n="40" facs="tcp:114787:21"/>integram ſequuntur, &amp; bonos mores; who hold the undefiled Faith full and whole, and obſerve good manners:</hi> and thoſe, that endevour not to doe this, are much to blame. While then thus we doe, we are <hi>good Catholicks.</hi> But that Faith, which we have received from the Apoſtles, and Councels, and Fathers, we keep whole, and undefiled, without alte<g ref="char:EOLhyphen"/>ration, addition, or diminution. While they are right, we are ſo. If they be out of the way, we are content to erre with them. <hi>Catholicks</hi> we are, true, right Catho<g ref="char:EOLhyphen"/>licks, by <hi>Lirinenſis</hi> rule.
+<note n="(p)" place="margin">
+                  <hi>Vincent. Li<g ref="char:EOLhyphen"/>rin. c.</hi> 25.</note> 
+               <hi>Gods truth, the Church, the body of Chriſt we love. We prefer no mans, no</hi> Churches <hi>authority, no affection, no wit, no eloquence, no philoſophie, nothing whatſoe<g ref="char:EOLhyphen"/>ver before Divine Religion, and the Catholick Faith. Theſe things we ſet light by, and being fixed, firme in faith, we have determined,</hi> by Gods grace, <hi>to hold and beleeve that, and that onely, which we know to have been held by the Catholick Church univerſally of old,</hi> from the beginning of Chriſtianity. <hi>And whatever new, or unheard of doctrine we ſhall perceive to have been induced by any particular man,</hi> or Church, <hi>beſides, or againſt all the holy men of God, this we underſtand to proceed from Tem<g ref="char:EOLhyphen"/>ptation, not from Religion.</hi>
+            </p>
+            <p n="10">10. Thus we are <hi>Catholicks,</hi> and our Church will prove ſo too. We beleeve the <hi>holy Catholick Church,</hi> we profeſſe it is but <hi>one.</hi>
+               <note n="(q)" place="margin">
+                  <hi>Cypr. l.</hi> 4. <hi>ep.</hi> 2.</note> 
+               <hi>A Chriſto una,</hi> (as St. <hi>Cyprian</hi> ſpeaks) but <hi>one of Christs making,</hi> though <hi>divided through all Nations into many members; per totum mundum in multa membra diviſa.</hi>
+               <note n="(r)" place="margin">
+                  <hi>Item Epiſco<g ref="char:EOLhyphen"/>patus unus Epi<g ref="char:EOLhyphen"/>ſcoporum multo<g ref="char:EOLhyphen"/>rum concordi numeroſitare diffuſus.</hi> Ib.</note> So the <hi>Epiſcopacy is but one,</hi> under that great
+<note n="(s)" place="margin">1. S. Pet. 2.25.</note> 
+               <hi>Biſhop of our ſoules,</hi> but it is <hi>diffuſed by the numerous conſent of many Biſhops.</hi> One Church, and one Biſho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rick; and yet many Biſhopricks, which are called Churches: and
+<note n="(t)" place="margin">
+                  <hi>Concil. Nic. Diatyp.</hi> 2.</note> every Biſhop is head, as it were, of that Communion or Church, which is committed to his charge.
+<note n="(u)" place="margin">
+                  <hi>Tertull. de Praeſcrip. c.</hi> 20.</note> Theſe many Churches, ſmall or great, <hi>una eſt illa ab Apoſtolis prima, ex qua omnes; are that one firſt Apostolicall Church, of whom come all.</hi>
+               <note n="(x)" place="margin">
+                  <hi>Sic omnes primae, &amp; om<g ref="char:EOLhyphen"/>nes Apoſtolicae, dum omnes u<g ref="char:EOLhyphen"/>nam probant u<g ref="char:EOLhyphen"/>nitatem.</hi> Ib.</note> 
+               <hi>Thus they are all prime, all Apoſtolick, while they all ap<g ref="char:EOLhyphen"/>prove one unity.</hi>
+               <note n="(y)" place="margin">
+                  <hi>Ib. c.</hi> 32.</note> This <hi>unity</hi> is by <hi>Tertullian</hi> placed in <hi>Faith,</hi> and <hi>Epiſcopall ſucceſſion.</hi> Hitherto then we are right; for thoſe Churches, that have this faith, and this ſucceſſive
+<pb n="41" facs="tcp:114787:21"/>government,
+<note n="(z)" place="margin">Ib.</note> 
+               <hi>non minus Apoſtolicae deputantur pro conſan<g ref="char:EOLhyphen"/>guinitate doctrinae, are equally Apoſtolick with thoſe very Chur<g ref="char:EOLhyphen"/>ches, which were planted by the Apostles.</hi> And in the <hi>Councel of Epheſus,</hi> the appeal is not to the Biſhop or Church of <hi>Rome,</hi> for tryall of doctrine, but to the
+<note n="(a)" place="margin">
+                  <hi>Vincent. Li<g ref="char:EOLhyphen"/>rin. c.</hi> 42.</note> conſent of the moſt famous Catholick Biſhops, that were before them. If <hi>Rome</hi> be judge, the work is ſhort; we ſhall quickly have one Religion ſetled, good or bad. But the old rule is this,
+<note n="(b)" place="margin">
+                  <hi>Ib. c.</hi> 3.</note> 
+               <hi>Quod ubique, quod ſemper, quod ab omnibus,</hi> that which hath been beleived in all places, at all times, by all the Fathers, that is truly Catholick; and nothing elſe, for ought I know.</p>
+            <p n="11">11. This fully manifeſts, that <hi>this Nationall Church</hi> is as much <hi>Catholick and Apoſtolick,</hi> as can be deſired. And yet I cannot expect, that this ſhould work upon you, who are obſtinately prepoſſeſſed againſt all ſatisfaction. I remember, <hi>A.C.</hi> was not aſhamed to publiſh in print,
+<note n="(c)" place="margin">
+                  <hi>A.C. p.</hi> 54.</note> 
+               <hi>that the Lady,</hi> whom the two Biſhops conferred with, <hi>did not aske the Queſtion, as if ſhe meant to be ſatisfied with hearing, what either of them ſaid.</hi> And was it not, is it not ſo with you? <hi>Simon Magus</hi> will be the old man, ſay St. <hi>Peter,</hi> what he may. And
+<note n="(d)" place="margin">2. Tim. 3.8.</note> as <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes,</hi> ſo will your corrupt faction reſiſt the truth, come what can.</p>
+            <p n="12">12. But you have reaſon for what you ſay; and this it is;
+<note n="(e)" place="margin">
+                  <hi>n.</hi> 3.</note> 
+               <hi>Becauſe, although I ſaid, the Church of</hi> Rome <hi>was a member of the Catholick; yet the</hi> 19. <hi>Article of our Church ſayes, that the viſible Church of Chriſt is a Congregation of faith<g ref="char:EOLhyphen"/>full men, in the which the pure Word of God is preached, and the Sacraments be duly adminiſtred, according to Chriſts Ordi<g ref="char:EOLhyphen"/>nance, in all thoſe things, that of neceſſity are requiſite to the ſame.</hi> What is here to diſpleaſe you? Is not all true? Refute it, if you can: deny it, if you have the face.
+<note n="(f)" place="margin">Ib.</note> But <hi>in divers other Articles our Church condemnes the Church of</hi> Rome, <hi>for not preaching the pure Word of God.</hi> And that's it, that offends you. Sir, we undertake not to judge your Church, but her doctrine; we condemne her errors, and yet acknowledge her to be a Church.
+<pb n="42" facs="tcp:114787:22"/>
+               <note n="(g)" place="margin">Apoc. 2.13.</note> God blames the Church of <hi>Pergamos,</hi> for enduring the ſeat of Satan within her Dioceſe; as alſo
+<note n="(h)" place="margin">
+                  <hi>Ib. v.</hi> 15.</note> for hol<g ref="char:EOLhyphen"/>ding that odious doctrine of the <hi>Nicolaitans:</hi> and yet grants her to be a Church, ſuch a one, as it was. St. <hi>Paul</hi> calls the <hi>Corinthians</hi>
+               <note n="(i)" place="margin">1 Cor. 1.2.</note> a <hi>Church,</hi> but
+<note n="(k)" place="margin">
+                  <hi>Ib. v.</hi> 11. <hi>&amp;c.</hi> 3.</note> he blames their ſchiſmes,
+<note n="(l)" place="margin">
+                  <hi>Ib. c.</hi> 5.</note> their carnality,
+<note n="(m)" place="margin">
+                  <hi>Ib. c.</hi> 11.</note> their diſorders in the Church,
+<note n="(n)" place="margin">
+                  <hi>Ib v.</hi> 20, <hi>&amp;c.</hi>
+               </note> their prophaning of the Lords Supper, and
+<note n="(o)" place="margin">
+                  <hi>Ib. c.</hi> 15.12.</note> charges them with the <hi>hereſie of the Sadduces.</hi> Your errors were crept in among us; and ſhall not we dare to call them errors, and to teach our Country-men to avoyd them? Foure of theſe that B. Martyr hath charged you with, and proves them to be <hi>blaſphemous fa<g ref="char:EOLhyphen"/>bles, and dangerous deceits;</hi> as I acquainted you, § 24. You read, and turn over, and take no notice of what you read. This 'tis to be led by other mens eyes, and to ſee no further, then your new Maſters will give you leave.</p>
+            <p n="13">13. Juſtly we taxe you, <hi>Art.</hi> 30. for maiming the bleſſed <hi>Euchariſt,</hi> and for denying the <hi>Cup,</hi> or Blood of the Lord to Lay men. As if our Saviour had not ſhed it for them, as much as for us; and had not given it to them, as well as to us. What is the meaning then of theſe words,
+<note n="(p)" place="margin">St. Mat. 26.27.</note> 
+               <hi>Drink ye all of this?</hi> or did not the Church of <hi>Chriſt</hi> under<g ref="char:EOLhyphen"/>ſtand, what they did, when they gave it to Prieſt and People? And how can I communicate with them, that will not ſuffer me to communicate with <hi>Chriſt,</hi> accor<g ref="char:EOLhyphen"/>ding to his own Ordinance? who deny me that, which <hi>Chriſt</hi> hath commanded me to take? In denying me the <hi>Cup,</hi> ye admit me by halves; in truth ye forbid me the Lords Table, I withdraw not my ſelfe. I have proved § 11. that in the judgement of the Catholick Church, this Sacrament is to be adminiſtred to the Laity in both kinds. I ſhall adde therefore with you, that
+<note n="(q)" place="margin">
+                  <hi>n.</hi> 4.</note> 
+               <hi>the Church of</hi> Rome <hi>doth neither preach the pure Word of God, nor duly adminiſter the Sacraments, in thoſe things, that are of neceſſity requiſite for the ſame.</hi> This <hi>appears</hi> by our departure, or, as you name it, <hi>our ſeparation,</hi> not from you, but from your errors. As you are a Church, we communicate with
+<pb n="43" facs="tcp:114787:22"/>you; wherein ye are erronious, we depart from you. And in this we relie not upon our owne judgement, but
+<note n="(r)" place="margin">
+                  <hi>In ipſa vetu<g ref="char:EOLhyphen"/>ſtate, omnium, vel certè penè omnium Sacer<g ref="char:EOLhyphen"/>dotum pari<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er &amp; Magiſtrorum de<g ref="char:EOLhyphen"/>finitiones ſen<g ref="char:EOLhyphen"/>tentiaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſecta<g ref="char:EOLhyphen"/>mur.</hi> Vincent. Lirin. c. 3.</note> ſubmit to the generall reſolution of the ancient Fathers. The <hi>Jews</hi> at Gods command
+<note n="(s)" place="margin">Lev. 13.46.</note> ſeparated the leprous from the ſound, the clean from the unclean: and ſo doe we. Though
+<note n="(t)" place="margin">Num. 12.14</note> 
+               <hi>Miriam</hi> were <hi>Moſes</hi> owne Siſter, yet did he withdraw himſelfe and the whole Congregation from her, while leprous. But when ſhe was healed of her foule diſeaſe, both he and the reſt communicated with her. Caſt off your leprous errors, and we are for your com<g ref="char:EOLhyphen"/>munion.</p>
+            <p n="14">14. And whereas you adde, that
+<note n="(u)" place="margin">
+                  <hi>n.</hi> 4.</note> 
+               <hi>Archbiſhop</hi> Lawd <hi>ſays, it is not lawfull to make a ſeparation for points not neceſſary;</hi> I freely ſubſcribe to what he ſays. But withall he tells us, that
+<note n="(x)" place="margin">Archbiſhop <hi>Lawd.</hi> §. 23.</note> 
+               <hi>In the Church of</hi> Rome <hi>there are errors in Doctrine; and ſome of them ſuch, as moſt manifestly endanger ſalvation:</hi> And I hope it is lawfull to ſeparate from theſe; eſpecially ſince your moſt able friends grant; that
+<note n="(y)" place="margin">
+                  <hi>A. C. p.</hi> 56.</note> 
+               <hi>Error in the doctrine of Faith is a juſt cauſe of Separation.</hi> But the ſame Biſhop hath proved, that
+<note n="(z)" place="margin">Archbiſhop <hi>Lawd.</hi> §. 33. <hi>n.</hi> 13.</note> 
+               <hi>the Church of</hi> Rome <hi>hath erred in the doctrine of Faith, and dangerouſly too,</hi> in ſeverall parti<g ref="char:EOLhyphen"/>culars. In thoſe his words then, which you mention, he touches not us, but you; not us, who are ſeparated paſſively; but your Church, which hath actually, actively ſeparated and excommunicated us, <hi>for points not neceſſary,</hi> not to be endured in an Orthodoxe Church. Thus the cauſe, the fault, reſts upon you, not up<g ref="char:EOLhyphen"/>on us.</p>
+            <p n="15">15. Whereas then you tell us,
+<note n="(a)" place="margin">
+                  <hi>n.</hi> 4.</note> 
+               <hi>If we ſay, we did not make the Separation, but the Church of</hi> Rome, <hi>then</hi> Luther, Tindall, <hi>&amp;c. did not goe out of the Church of</hi> Rome, <hi>but the Church of</hi> Rome <hi>out of them.</hi> What conſequence is this? or what is this to us? What <hi>Tindall</hi> did, I know not, nei<g ref="char:EOLhyphen"/>ther does it concern us. What <hi>Luther</hi> did, I know, if the Hiſtory of the <hi>Councel of Trent</hi> miſguide me not. He hum<g ref="char:EOLhyphen"/>bly acquainted you with your errors and enormities, and deſired redreſſe; and for this, ye moſt unchriſtianly thruſt him forth of your communion; reſolving rather to per<g ref="char:EOLhyphen"/>ſevere
+<pb n="44" facs="tcp:114787:23"/>in error, then to amend, what was, and is amiſſe. For my part, I am reſolved not to juſtifie any man, or act againſt the conſent and rules of the ancient Church. But our Reformation was legall and canonicall; as is fully proved, § 20.21. We went not out of the Church to make a Reformation; but this we did in the Church, ac<g ref="char:EOLhyphen"/>cording to the laudable cuſtomes and canons of the anci<g ref="char:EOLhyphen"/>ent Church. And whoever condemnes us for this, he con<g ref="char:EOLhyphen"/>demnes himſelfe of groſſe ignorance, or malice. I may juſtly therefore ſay with <hi>Moſes,</hi>
+               <note n="(b)" place="margin">Num. 16.7.</note> 
+               <hi>Ye take too much upon you, ye ſons of Levi,</hi> Ye men of <hi>Rome:</hi> ye tranſgreſſe the 92. &amp; 165. canons of the Catholick Church, by med<g ref="char:EOLhyphen"/>ling beyond your bounds; as alſo by impoſing upon us and other Countreys the Creed of <hi>Pius Quartus;</hi> which is contrary to the 177. Canon of the ſame Code.</p>
+            <p n="16">16. Yet, as if no ſatisfaction were given to your de<g ref="char:EOLhyphen"/>mands, you proceed thus;
+<note n="(c)" place="margin">
+                  <hi>n.</hi> 5.</note> 
+               <hi>Therefore I had reaſon ſtill, as in my Letter, to demand a Church distinct from the Church of</hi> Rome, <hi>and thoſe in her communion; of which no man, that reads your anſwer, can thereby, I think, receive ſatisfaction.</hi> So you think, and ſome that have read it, think otherwiſe; and conceive that I have given full <hi>ſatisfaction to your demands;</hi> though you be reſolved to turn your eares another way. For I have demonſtrated, that when the <hi>Church of</hi> Rome, <hi>and thoſe in her communion,</hi> were no members of the Catholick Church, there were at that very time ſeverall Orthodoxe Churches in <hi>France,</hi> § 23. in <hi>Aſia, Sardinia, Aegypt,</hi> and at <hi>Conſtantinople.</hi> All which at the ſame inſtant abhorred thoſe hereſies, which <hi>Rome</hi> profeſſed; and would have no com<g ref="char:EOLhyphen"/>munion with her, or her hereſies.</p>
+            <p n="17">17. But, ſay you,
+<note n="(d)" place="margin">Ib.</note> 
+               <hi>the whole drift and ſcope of my Pa<g ref="char:EOLhyphen"/>pers is, either to prove, Firſt, that the Church of</hi> Rome, <hi>and thoſe in her communion, is not the Catholick Church. Secondly, that the Church of</hi> Rome, <hi>and thoſe in communion with her, and the Church of</hi> England <hi>are but one, that is, ſeverall members of one Church.</hi> To theſe in their order. For the firſt you ſpeak truth; <hi>The Church of</hi> Rome, <hi>and thoſe in her communion, is not the Catholick Church:</hi> this is both ſaid and proved, § 12,
+<pb n="45" facs="tcp:114787:23"/>
+               <hi>&amp;c.</hi> There my minde may be fully ſeen; and till that be diſproved, I ſhall adde onely thus much; If the Church of <hi>Rome</hi> be not the <hi>Catholick,</hi> as I affirm, and yet the Catho<g ref="char:EOLhyphen"/>lick alwayes viſible; then was there a Church diſtinct from the <hi>Romane</hi> Church, when <hi>Rome</hi> it ſelfe was not Ca<g ref="char:EOLhyphen"/>tholick. But there was a time, when <hi>Rome</hi> was not Catho<g ref="char:EOLhyphen"/>lick, not Orthodoxe; as is proved in my former Papers, § 18, 23, 27, 29.</p>
+            <p n="18">18. Your reply to that, which I wrote before, is this;
+<note n="(e)" place="margin">
+                  <hi>n.</hi> 6.</note> 
+               <hi>For the firſt, That the Church of</hi> Rome, <hi>and thoſe in commu<g ref="char:EOLhyphen"/>nion with her, was not the Catholick Church for that time I requi<g ref="char:EOLhyphen"/>red, you ſhew no proofe, that I doe finde, but that ſome of the Popes have been Hereticks or Schiſmaticks.</hi> Proofe then is ſhewed for this; and this I take to be proofe enough. For if the head be amiſſe, the whole body is out of tune. But the Biſhop is
+<note n="(f)" place="margin">
+                  <hi>Concil. Nic. Diatyp.</hi> 2.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the head, or <hi>as the head of</hi> that Church whereto he is prefer'd, over which he is placed. For
+<note n="(g)" place="margin">
+                  <hi>Epiſcopus eſt in Eccleſia, &amp; Eccleſia in Epi<g ref="char:EOLhyphen"/>ſcopo.</hi> Cypr. ep. 69. n. 31.</note> as the Biſhop is in the Church, ſo is the Church in the Biſhop; and ſuch as the Biſhop is, ſuch is the Church pre<g ref="char:EOLhyphen"/>ſumed to be, till it renounce the Biſhops errors: for
+<note place="margin">(h)</note> by the Biſhop every Church communicates with other Churches. Hence it is, that at the ordination of a Biſhop, the <hi>Metropolitan,</hi> or other Biſhops of that Province acquaint the <hi>Primate</hi> therewith, and he the other Biſhops within his Dioceſe, that ſo they might know, with and by whom they ought to communicate with other Churches. This is to be ſeen in St. <hi>Cyprian</hi>
+               <note n="(i)" place="margin">
+                  <hi>Cyp. l.</hi> 4. <hi>ep.</hi> 8.</note> by the ordination of <hi>Cornelius;</hi> as alſo
+<note n="(k)" place="margin">
+                  <hi>Euſeb. hiſt. l.</hi> 7. <hi>c.</hi> 24.</note> by the depoſition of <hi>Paulus Samoſatenus,</hi> by the ordination of <hi>Domnus</hi> into the See of <hi>Antioch.</hi>
+               <note n="(l)" place="margin">Ib.</note> This intelligence was given, that ſo they might know to whom to write, and from whom to receive <hi>Letters of commu<g ref="char:EOLhyphen"/>nion.</hi>
+            </p>
+            <p n="19">19. That <hi>ſome,</hi> yea divers, of your <hi>Popes</hi> were <hi>Hereticks or Schiſmaticks,</hi> is throughly manifeſted out of your own men, § 18, 32, <hi>&amp;c.</hi> And while Hereticks,
+<note n="(m)" place="margin">
+                  <hi>Cod. Eccl. <g ref="char:V">Ʋ</g>niverſ. Can.</hi> 171.</note> both them<g ref="char:EOLhyphen"/>ſelves, and all that ſide with them are ſecluded from Eccle<g ref="char:EOLhyphen"/>ſiaſticall communion every way.
+<note n="(n)" place="margin">Ib.</note> All their Epiſcopall acts are made void; and
+<note n="(o)" place="margin">
+                  <hi>Ib. Can.</hi> 172.</note> thoſe Biſhops which adhere
+<pb n="46" facs="tcp:114787:24"/>to them, are to be degraded from their <hi>Epiſcopacy.</hi> While therefore your Biſhops were Hereticall, your Church was in an ill caſe: it could not poſſibly be Catholick, when all Epiſcopall acts were void. Is not this a main evidence againſt you?
+<note n="(p)" place="margin">§ 23.</note> 
+               <hi>Some proofe</hi> there is alſo from St. <hi>Hilary;</hi> who profeſſeth, that (in theſe Weſtern parts) there was in his time no Chriſtian communion but in <hi>France.</hi> This touches not onely the <hi>Biſhop,</hi> but the <hi>whole Church of Rome,</hi> and all that adhered to him, or that.</p>
+            <p n="20">20. For all this, as if it were doubtfull whether your Biſhops were ſuch, you adjoin,
+<note n="(q)" place="margin">
+                  <hi>n.</hi> 6.</note> 
+               <hi>Which if admitted (though it is not) to be ſo in ſome of them for that time, yet it doth not make that whole Church to be Hereticall or Schiſmaticall.</hi> Sir, though not admitted by you and your Maſters, yet it is acknow<g ref="char:EOLhyphen"/>ledged by your own learned men, <hi>Lyra, Stella, Almain, Pla<g ref="char:EOLhyphen"/>tina, Onuphrius,</hi> and others, that ſome of your Biſhops have been Hereticall, and ſome Schiſmaticall. And that not for a ſmall time, as you ſeem to imply; but for many genera<g ref="char:EOLhyphen"/>tions,
+<note n="(r)" place="margin">
+                  <hi>Aventin. Annal. Boior. l.</hi> 5. <hi>p.</hi> 447.</note> for 450 yeers together, they were an infamie to their Order, as <hi>Aventinus</hi> teſtifies. God forbid, that I ſhould paſſe ſentence upon every particular perſon; but as a City is rebellious, when the Governour and the party prevalent withſtand and affront the Prince, though many loyall ſubjects be in that City: ſo when the Biſhop, and the prevailing part with him fall into hereſie, that Church is adjudged Hereticall; and the denomination is taken from the more eminent and potent faction. Thus
+<note n="(s)" place="margin">
+                  <hi>Socrat. l.</hi> 3. <hi>c.</hi> 29. <hi>Sozom. l.</hi> 4. <hi>c.</hi> 10.</note> 
+               <hi>Rome</hi> it ſelfe was accounted <hi>Arian,</hi> while Biſhop <hi>Felix</hi> com<g ref="char:EOLhyphen"/>municated with <hi>Arians,</hi> and ordained divers of that per<g ref="char:EOLhyphen"/>ſuaſion Miniſters of that Church. And yet, bleſſed be God,
+<note n="(t)" place="margin">
+                  <hi>Theodoret. l.</hi> 2. <hi>c.</hi> 17.</note> 
+               <hi>Rome</hi> at that time had many good people, that would not communicate with that Biſhop.</p>
+            <p n="21">21. But, in the words following, it is little leſſe then confeſſed, that your Biſhops were ſuch as I have related.
+<note n="(u)" place="margin">
+                  <hi>n.</hi> 6.</note> 
+               <hi>For</hi> (as your next words ſpeak) <hi>I beleeve, you will yeeld, that the King of</hi> England, <hi>or Archbiſhop of</hi> Canterbury, <hi>may be an Heretick, or Schiſmatick, and yet the Church of</hi> England <hi>be ſtill part of the Church Catholick.</hi> Sir, we muſt diſtinguiſh be<g ref="char:EOLhyphen"/>tween
+<pb n="47" facs="tcp:114787:24"/>a profeſſed, and cloſe Heretick. Thoſe, that com<g ref="char:EOLhyphen"/>municate with a profeſſed Heretick, are as he is. Hence is it, that
+<note n="(x)" place="margin">
+                  <hi>Theodoret. l.</hi> 2. <hi>c.</hi> 17. <hi>So<g ref="char:EOLhyphen"/>zom. l.</hi> 4. <hi>c.</hi> 10.</note> 
+               <hi>Felix</hi> Biſhop of <hi>Rome,</hi> though inwardly Ortho<g ref="char:EOLhyphen"/>dox, was adjudged Hereticall for holding communion with the <hi>Arians.</hi> But with a cloſe, a concealed Heretick, we may communicate, and be guiltleſſe. Thus
+<note n="(y)" place="margin">Act. 8.13.</note> St. <hi>Philip</hi> communicated a while with <hi>Simon Magus,</hi>
+               <note n="(z)" place="margin">1 Tim. 1.20.</note> St. <hi>Paul</hi> with <hi>Hymeneus;</hi> and the reſt of the Apoſtles with <hi>Nicolaus,</hi> and were blameleſſe. But this is to perſwade us, that your Church was Catholick, when your Biſhop an Heretick. Thus the Popes infallibility is ſhrunk into hereſie; it is fallen out of the chaire into the body of the Church, and the head ſhall receive health from the members, not the members from the head. Whereas anciently the Saints of God judged of the Church by the Biſhop, not of the Biſhop by the Church. Yea,
+<note n="(a)" place="margin">
+                  <hi>Concil. Nic. Can.</hi> 5.</note> the com<g ref="char:EOLhyphen"/>munion of the Church is eſtimated by communicating with the Biſhop: and
+<note n="(b)" place="margin">
+                  <hi>Cod. Eccleſ. Univerſ. can.</hi> 169</note> if any, whether Prieſt, or other, ſhall ſever themſelves from their <hi>Canonicall Biſhop,</hi> and ſhall call a Congregation againſt him, or without his directions, they are cenſured to be Hereticks. The reaſon is, becauſe
+<note n="(c)" place="margin">
+                  <hi>Concil. Nic. Diatyp.</hi> 2.</note> the <hi>Biſhop is as it were the head,</hi> the life of his Church; and
+<note n="(d)" place="margin">
+                  <hi>Concil. Nic. Can.</hi> 4.</note> ought not to be ordained without the approbation of all the Biſhops of that Province. And, I know, <hi>Liberius</hi> was ordained with this circumſpection. Thus the Biſhop elected is preſumed to be of the ſame Religion with the reſt of the Province; and the Province with the <hi>Metropoli<g ref="char:EOLhyphen"/>tan.</hi> Provided therefore it is, that
+<note n="(e)" place="margin">
+                  <hi>Cod. Eccleſ. Univerſ. Can.</hi> 5.99.104.</note> the Synod of that Province cenſure him, if he faile of their expectation, and depart from the Orthodoxe faith. And
+<note n="(f)" place="margin">
+                  <hi>Ib. Can.</hi> 171, 172.</note> if they do not, they are alike guilty, and all that adhere to him or them.</p>
+            <p n="22">22. And for the parties inſtanced, the <hi>King of</hi> England, <hi>and Archbiſhop of</hi> Canterbury; I beleeve, that either, or both of them may be Hereticks, and this Church not ſo; ſince it is not their being, but our complying that makes us hereticall. But if all our Biſhops be of the ſame Re<g ref="char:EOLhyphen"/>ligion with them, this Church is in an ill caſe. You, or
+<pb n="48" facs="tcp:114787:25"/>I, may ſave our owne ſoules by not communicating with them, by diſſenting from them, and by proteſting againſt their unſound doctrine. But the Church is not to be judged of by you, or me; but by thoſe that ſit in <hi>Moſes</hi> chaire, and are
+<note n="(g)" place="margin">2. Cor. 2.16.</note> either the ſavour of life unto life, or the ſavour of death unto death. For
+<note n="(h)" place="margin">St. Mat. 5.13.</note> 
+               <hi>if the ſalt loſe its ſa<g ref="char:EOLhyphen"/>vour, wherewith ſhall it be ſalted?</hi> how mended? how reco<g ref="char:EOLhyphen"/>vered? Surely
+<note n="(i)" place="margin">Ib.</note> 
+               <hi>it is to be caſt forth</hi> of the Church, out of the dignity it is in; and trampled upon as good for nothing. This was ſpoken to the Apoſtles, and with them to their ſucceſſors. But when the King and Prieſt joyne together, it hath a ſtrange influence upon the People for good or bad.
+<note n="(k)" place="margin">4. <hi>Reg.</hi> 16.10, <hi>&amp;c.</hi>
+               </note> When King <hi>Ahaz</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rijah</hi> the Prieſt profeſſed Idolatry with open face, though many good men were reſident among them, yet was that City and People accounted Hereticall. The power of the ſword drawes ſome to ſympathize, and too many to temporize. This is to be ſeen under the reign of
+<note n="(l)" place="margin">
+                  <hi>Iſta edicto<g ref="char:EOLhyphen"/>rum Imperatoris vi, quae in par<g ref="char:EOLhyphen"/>tes Occidentis miſerat, confecta ſunt.</hi> Socrat. l. 2. c. 29.</note> 
+               <hi>Conſtantius, Julian, Valens,</hi> and others; where we ſee Religion much depend upon the Imperiall breath. But if Prince and Biſhop concurre in Religion, they hardly meet with oppoſition. Look upon <hi>Antioch</hi> under <hi>Conſtantius</hi> the Emperour, and <hi>Leontius</hi> the Biſhop; upon <hi>Conſtantinople</hi> under <hi>Valens,</hi> and Biſhop <hi>Eu<g ref="char:EOLhyphen"/>doxius,</hi> and you ſhall ſee how ſuddenly they were overrun with hereſie. Now, if it ſhould fall out ſo unhappily with any or all the Cities of this Kingdome, the Dioceſan or Nationall Church ſo infected, ſhall be deemed Hereticall. Under K. <hi>Edward</hi> VI. and Queen <hi>Mary,</hi> the Religion of this Church was judged of by the Governors; and thus ſhall we deal with <hi>Rome.</hi>
+            </p>
+            <p n="23">23.
+<note n="(n)" place="margin">6.</note> 
+               <hi>But if it were granted</hi> (ſay you) <hi>that the Popes of</hi> Rome <hi>being Schiſmaticks or Hereticks, ſhould annihilate that Church, yet that could give me no ſatisfaction, who required not, where is not the Catholick Church, but where it is, that I might communicate with it.</hi> And I ſay, <hi>if the Church of Rome</hi> bee <hi>annihilated by the Popes Hereſie,</hi> or Apoſtaſie, ſhe ſhall be no Church, much leſſe the <hi>Catholick.</hi> What then ſhall become of thoſe Churches in her communion? ſurely they are all
+<pb n="49" facs="tcp:114787:25"/>in an ill, in the ſame caſe with her. <hi>Grant</hi> but this, and the controverſie is at an end. You have <hi>ſatisfaction,</hi> and I eaſe. But this will not ſerve your turn, who now <hi>re<g ref="char:EOLhyphen"/>quire not, where is not, but where is the Catholick Church.</hi> Well, if this will <hi>give you ſatisfaction,</hi> I ſhall tell you this too. <hi>The Catholick Church is, where</hi> ever the Catholick faith is preſerved, and Apoſtolick government continued.
+<note n="(m)" place="margin">
+                  <hi>Chryſoſt. in</hi> 1. Cor. 12.</note> It hath been diſperſed through the whole world; though not perchance in all parts of the habitable world at the ſame time.
+<note n="(n)" place="margin">1. Cor. 12.12.</note> One it is, but many members. <hi>As the body is one, and hath many members, ſo is Chriſt,</hi>
+               <note n="(o)" place="margin">Chryſoſt. in loc.</note> 
+               <hi>Pro Eccleſia poſuit Chriſtum;</hi> for the Church he ſets down Chriſt; ſince the Church is his body,
+<note n="(p)" place="margin">1. Cor. 12.13.</note> into which we are all bapti<g ref="char:EOLhyphen"/>zed. This body hath many members, theſe members are diffuſed from ſea to ſea, over the whole earth. So the Church is in <hi>Greece, Italy, Spain, France, England, Polonia,</hi> and
+<note n="*" place="margin">
+                  <hi>Unus ſpiritus ineſſe omnibus infuſus mem<g ref="char:EOLhyphen"/>bris, &amp; una ani<g ref="char:EOLhyphen"/>ma meritò dici<g ref="char:EOLhyphen"/>tur,</hi> quia una in omnibus fides, &amp; unus ab om<g ref="char:EOLhyphen"/>nibus colitur Deus, <hi>at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ex uno ore hymnos omnes concinunt Deo.</hi> Ruffin. hiſt. l. 9. c. 10.</note> whereever the Catholick faith and Apoſtolicall govern<g ref="char:EOLhyphen"/>ment are continued. Thus we acknowledge <hi>Rome</hi> to be a Church, as St. <hi>Paul</hi> did <hi>Corinth,</hi> though an erroneous and ſuperſtitious Church. You ſee now, where you may <hi>com<g ref="char:EOLhyphen"/>municate with the Catholick:</hi> but it is left to your diſcretion, to chooſe, whether you will communicate with a reformed or a ſuperſtitious Church.</p>
+            <p n="24">24. Now to the ſecond, where I ſay, <hi>That the Church of</hi> Rome, <hi>and thoſe in her communion, and the Church of</hi> England, <hi>are but ſeverall members of the one Catholick Church:</hi> You reply thus,
+<note n="(q)" place="margin">
+                  <hi>n.</hi> 7.</note> 
+               <hi>That, I conceive, cannot be;</hi> 1. <hi>For the reaſons infer<g ref="char:EOLhyphen"/>red from the Articles of your Church, as above.</hi> 2. <hi>For that the Articles of faith of both Churches are directly contradictory; as appears by many your negative Articles.</hi> I look not upon your <hi>conceits,</hi> but upon your <hi>reaſons inferred from the Articles of our Church;</hi> which are already ſatisfied, § 12, 13. And whereas you adde, that <hi>the Articles of faith of both Churches are directly contradictory;</hi> I hope, it is not ſo. If it be, I am certaine, one of theſe is no Church: For then
+<note n="(r)" place="margin">1. Cor. 3.11.</note> we build not both upon the ſame <hi>foundation;</hi>
+               <note n="(s)" place="margin">Coloſ. 2.19.</note> we <hi>hold not the head, from which all the body receives nouriſhment, and is knit,</hi> com<g ref="char:EOLhyphen"/>pacted, <hi>together by joynts and bands. Quid itaque relicto capite mem<g ref="char:EOLhyphen"/>bris
+<pb n="50" facs="tcp:114787:26"/>adhaeres?</hi> Why then do you leave the head, to cleave to the members, corrupt, putrified members? He, that builds upon the rock, builds upon ſure grounds.
+<note n="(t)" place="margin">
+                  <hi>Aug. de verb. Domini. Ser.</hi> 45. <hi>c.</hi> 7.</note> 
+               <hi>Veni ergo mecum, ſi vis ſuperpetram; &amp; noli mihi velle eſſe pro petra:</hi> if then you befor the rock, go along with me; and ſeek not to be the rock to me. Behold, we build upon the <hi>rock;</hi> we beleeve in God the Fa<g ref="char:EOLhyphen"/>ther, in God the Son, and God the holy Ghoſt. I hope, ye doe ſo too. We alſo beleeve the Unity in Trinity, and Trinity in Unity. And do not ye ſo too? Hitherto we are both upon the Rock. We beleeve the
+<note n="*" place="margin">We devoutly profeſſe, and in all points fol<g ref="char:EOLhyphen"/>low the faith, which is con<g ref="char:EOLhyphen"/>tained in the <hi>three Creeds,</hi> that is to ſay, <hi>of the Apoſtles, of the Councel of Nice, and of Athanaſius.</hi> The Proteſt. of Biſhop <hi>Scory, &amp;c. Book of Mart. p.</hi> 2119.</note> 
+               <hi>three Creeds,</hi> and in the ſame ſenſe the Primitive Church received them; which ye doe not; but give ſome of the Articles a new, another ſenſe. Here then ye are beſide the Rock.</p>
+            <p n="25">25. Thus we agree, and yet not agree; we agree in the foundation, not in the ſuperſtruction; in the letter, not in the expoſition. And we are ſorry to ſee you forget your ſelves ſo much, as to infringe ſo memorable, ſo neceſſary a Canon as that of the <hi>Councel of Epheſus;</hi> which decrees, that
+<note n="(u)" place="margin">
+                  <hi>Conc. Epheſ. Can.</hi> 7.</note> 
+               <hi>It is not lawfull for any one to bring, to write, or compoſe any other Creed, beſides that which was agreed upon by thoſe holy Fathers aſſembled in the holy Ghoſt at Nice.</hi> He that offends in this kind againſt this Canon, is deeply cenſured; If a <hi>Biſhop,</hi> he is to be deprived of his Cure; if a <hi>Clergy-man,</hi> of his function; but if a <hi>Lay-man,</hi> he is to be turned out of the Churches communion. But ye have impoſed a new, another <hi>Creed</hi> of <hi>Pius Quartus</hi> upon the Church; which whoſoever will not ſubſcribe to, he is, at leaſt, no good Catholick w<hi rend="sup">th</hi> you.</p>
+            <p n="26">26. Say not, that theſe are expoſitions; they are dan<g ref="char:EOLhyphen"/>gerous additions: and though I cannot ſay, ye have alte<g ref="char:EOLhyphen"/>red the letter, yet I dare be bold to ſay, ye have ſtrangely alter'd the ſenſe,
+<note n="(x)" place="margin">
+                  <hi>Tertul. de Praeſcrip. c.</hi> 38.</note> 
+               <hi>auferendo proprietates ſingulorum verbo<g ref="char:EOLhyphen"/>rum, &amp; adjiciendo diſpoſitiones non comparentium rerum, by taking away the proper ſenſe of ſeverall words, and by inſer<g ref="char:EOLhyphen"/>ting imaginations of ſuch things as have no footing in holy Writ.</hi> Whereas we, as we ought, take the rule of Faith in the li<g ref="char:EOLhyphen"/>terall ſenſe;
+<note n="(y)" place="margin">
+                  <hi>Quae nullas habet apad nos quaeſliones, niſi quas haereſes in<g ref="char:EOLhyphen"/>ferunt, &amp; quae Haereticos faci<g ref="char:EOLhyphen"/>unt.</hi> Ib. c. 14.</note> and that raiſeth no controverſies with us, but ſuch as hereſies bring in, and ſuch as make Here<g ref="char:EOLhyphen"/>ticks. Your ſelves, your own Church ye may charge with
+<pb n="51" facs="tcp:114787:26"/>contradictions, this Church ye cannot. This is the plea we ſtand upon,
+<note n="(z)" place="margin">
+                  <hi>Ib. c.</hi> 21.</note> 
+               <hi>Communicamus cum Eccleſtis Apostolicis, quod nulla (vel in nullo) doctrina diverſa: hoc eſt teſtimonium veri<g ref="char:EOLhyphen"/>tatis:</hi> we cannot but communicate with the Primitive, the Apoſtolick Churches, whoſe doctrine is in nothing diffe<g ref="char:EOLhyphen"/>rent from theirs. This is ſuch a teſtimony of the truth, that it is above all exception. And reſolved I am, with Gods bleſſing, to be no longer of this communion, then I ſhall be able to make this good.</p>
+            <p n="27">27. And whereas
+<note n="(a)" place="margin">
+                  <hi>n.</hi> 7.</note> 
+               <hi>Mr.</hi> Hooker <hi>ſayes, That the Children of the viſible Church are ſigned with this mark, One Lord,</hi> ONE FAITH, <hi>one Baptiſme;</hi> I preſume you make no doubt of this. Neither can I think, but that you are reſolved, whoever denies the <hi>Lord</hi> of life, or renounceth the Catho<g ref="char:EOLhyphen"/>lick <hi>faith,</hi> or is baptized into any other <hi>Baptiſm,</hi> then that <hi>one,</hi> which our Saviour inſtituted; or is a ſecond time baptized, he is no childe of the viſible Church: ſince that hath taught us to <hi>beleeve one Baptiſm for the remiſſion of ſins.</hi> He then that forſakes this faith, forſakes the Church.</p>
+            <p n="28">28. Thirdly, you adde, that
+<note n="(b)" place="margin">Ib.</note> 
+               <hi>I my ſelfe charge the Church of</hi> Rome <hi>with errors in matters of faith, no leſſe then in foure points,</hi> viz. <hi>Tranſubſtantiation, Communion in one kinde, Invocation of Saints, and Adoration of images.</hi> As if I were the firſt, or the onely man, that charged you with theſe errors: whereas
+<note n="(c)" place="margin">
+                  <hi>Art.</hi> 22, 28, 30.</note> this is done by our whole Church; and the Inditement is made good by that learned Archbi<g ref="char:EOLhyphen"/>ſhop of B. memory. The Church ſaith, that theſe doctrines are
+<note n="(d)" place="margin">
+                  <hi>Art.</hi> 22.</note> 
+               <hi>fond things, grounded upon no warranty of Scripture, but rather repugnant to the Word of God.</hi> The Archbiſhop hath charged it home, and you know not how to ſhift it off. It would well therefore become a Chriſtian Church to redreſs theſe and your other errors; that we, and others, who pro<g ref="char:EOLhyphen"/>teſt againſt theſe unwarrantable doctrines, may communi<g ref="char:EOLhyphen"/>cate freely with you.</p>
+            <p n="29">29.
+<note n="(e)" place="margin">
+                  <hi>n.</hi> 7.</note> 
+               <hi>You would</hi> therefore <hi>willingly hear, how I diſtinguiſh between errors in matters of faith, pertinaciouſly held, and hereſie.</hi> What's this to the point in hand? This is but onely to tempt me into another diſcourſe, nothing to our purpoſe.
+<pb n="52" facs="tcp:114787:27"/>As there is great difference between <hi>error</hi> and <hi>pertinacy,</hi> ſo is there alſo between errors in faith, and <hi>errors in matters of faith. Errors in faith</hi> are ſuch as are againſt the Creed: <hi>errors in matters of faith,</hi> I underſtand to be ſuch, as con<g ref="char:EOLhyphen"/>cern the faith in points of lower moment, that deny not the letter of the text, but give, and impoſe for by-ends, ſome unwarrantable expoſitions, unknown to antiquity. Such is that, which was
+<note n="(f)" place="margin">
+                  <hi>Cod. Eccleſ. <g ref="char:V">Ʋ</g>niver. can.</hi> 177</note> brought in by <hi>Chariſius,</hi> and ſuch are yours, which the Church of <hi>England</hi> nominates. Though theſe with the former batter not the foundation, yet they endanger the out-works, and will in time make way to undermine ſome of the neceſſary forts.</p>
+            <p n="30">30. 'Tis very true, that <hi>an error in faith pertinaciouſly main<g ref="char:EOLhyphen"/>tained, is no leſſe then hereſie:</hi> but we ſay not ſo of <hi>errors in matters of faith.</hi>
+               <note n="(g)" place="margin">
+                  <hi>Quid faciat Haereticum, regu<g ref="char:EOLhyphen"/>lari quâdam de<g ref="char:EOLhyphen"/>finitione comp e<g ref="char:EOLhyphen"/>hendi, ſicut ego exiſtimo, aut omnino non po<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, aut diffi<g ref="char:EOLhyphen"/>cillime poteſt.</hi> Aug. Praefat. ad li. de Haereſ.</note> St. <hi>Auſtin</hi> was very cautelous in defining an <hi>Heretick;</hi> and I ſhall be wary, how I determine what hereſie ſeparates from the Catholick Church. And yet your Maſters cannot deny, but St. <hi>Cyprian</hi> (not St. <hi>Auſtin,</hi> as you miſtake) reſolves thus,
+<note n="(h)" place="margin">Cypr. Pom<g ref="char:EOLhyphen"/>peio. ep.</note> 
+               <hi>Haereſis Chriſti ſponſa non eſt; Hereſie is not the ſpouſe of Chriſt.</hi> But every thing, that is called <hi>hereſie</hi> by you, or <hi>error in doctrine</hi> with us, will not ſeparate from the Catholick communion. St. <hi>Auſtin</hi> there<g ref="char:EOLhyphen"/>fore limits it thus,
+<note n="(i)" place="margin">
+                  <hi>Aug. de Fide &amp; Symb. c.</hi> 10.</note> 
+               <hi>Haeretici de Deo falſa ſentiendo, ipſam fidem violant. Quapropter non pertinent ad Eccleſiam Catholi<g ref="char:EOLhyphen"/>cam:</hi> every violation of the faith cuts not off from the Ca<g ref="char:EOLhyphen"/>tholick Church, but a falſe opinion of God does; beware of that; take heed how you think amiſſe of the bleſſed Tri<g ref="char:EOLhyphen"/>nity, or any perſon therein. And in this ſenſe is that of <hi>Tertullian</hi> to be underſtood,
+<note n="(k)" place="margin">
+                  <hi>Tertul. de Praeſcrip. c</hi> 37.</note> 
+               <hi>Si Haeretici ſunt, Chriſtiani eſſe non poſſunt;</hi> where an hereſie is againſt any perſon of the Trinity, there's no Chriſtianity. That Great <hi>Athanaſius</hi> therefore tells us that
+<note n="(l)" place="margin">
+                  <hi>Athan. de Spiritu ſancto. p.</hi> 202. 203.</note> this beliefe in the Father, the Son, and the holy Ghoſt, <hi>Chriſt</hi> gave to be ſetled in the Church, <hi>as a foundation to the Church, the foundation of faith, and the faith of the Catholick Church.</hi> And
+<note n="(m)" place="margin">
+                  <hi>Ib p.</hi> 204.</note> 
+               <hi>whoever di<g ref="char:EOLhyphen"/>vides the Son from the Father, or reckons the holy Ghoſt among creatures, he neither hath the Father, nor the Son, ſed impius eſt ſine Deo, &amp; infideli deterior, &amp; quidvis potius quam Christianus;
+<pb n="53" facs="tcp:114787:27"/>but he is an impious man without God, worſe then an Infidel, and any thing rather then a Christian.</hi> And if no Chriſtian, no member of the Church.
+<note n="*" place="margin">
+                  <hi>Hilar. Pict. ad Conſtant. Aug. p.</hi> 273.</note> 
+               <hi>Catholicus ſum, nolo eſſe Haereti<g ref="char:EOLhyphen"/>cus; Chriſtianus ſum, non Arianus.</hi> Thus far I dare goe with theſe Fathers, but no further. But if, as you will have it, <hi>every error in matters of faith pertinaciouſly held, be an hereſie, and ſeparate from the Catholick Church, Rome</hi> hath been in an ill caſe for many yeers. For thoſe foure <hi>errors</hi> mentio<g ref="char:EOLhyphen"/>ned, § 29. ye have <hi>held with pertinacy</hi> enough: and yet are they by the <hi>Archbiſhop</hi> ſtrongly proved to be errors; though your ſtomachs be too high to retract them.</p>
+            <p n="31">31. But you would fain have me doe, what our Church hath never done, that is, to charge your Church with hereſie: for ſay you,
+<note n="(n)" place="margin">
+                  <hi>n.</hi> 7.</note> 
+               <hi>if the Church of</hi> Rome <hi>be guilty of hereſie, ſhe is no part of the Catholick Church.</hi> But I never ſaid, ſhe was <hi>guilty of hereſie;</hi> and till I have juſt cauſe to ſay ſo, I ſhall forbear to ſay, that <hi>ſhe is no part of the Ca<g ref="char:EOLhyphen"/>tholick Church.</hi> And I ſhall be as tender as my betters have been, to ſet down,
+<note n="(o)" place="margin">Archbiſhop <hi>Lawd.</hi> §. 11. <hi>n.</hi> 1.</note> 
+               <hi>what errors in doctrine may give juſt cauſe of ſeparation in this bedy, or the parts of it, one from ano<g ref="char:EOLhyphen"/>ther.</hi> I have ſatisfied my ſelfe, that the Reformation of this Church was Canonicall, and is juſtifiable; and that ſhe was and is a very member of the Catholick; in whoſe communion I have ever lived; wherein alſo, by Gods grace, I am reſolved to die. And it were wiſdome in you to ſee your Church juſtified from thoſe foure errors, before you enter into further controverſies, As for that,
+<note n="(p)" place="margin">
+                  <hi>n.</hi> 7.</note> which you produce out of the 11 <hi>Sect.</hi> there it is ſuffi<g ref="char:EOLhyphen"/>ciently proved, that your Church <hi>hath moſt ſacrilegiouſly robbed the Laity of Chriſts blood.</hi> This is not denyed, I take it therefore for confeſſed; and hope, your Maſters will ſee it mended.</p>
+            <p n="32">32. Well, if we will not declare yours to be no Church, you will prove yours or ours to be no Church; and upon theſe grounds,
+<note n="(q)" place="margin">Ib.</note> 4<hi rend="sup">ly.</hi> ſay you, <hi>Chriſts myſticall body is but one; and although that body is made up of many members, yet all thoſe members muſt communicate one with ano<g ref="char:EOLhyphen"/>ther: for if a member be ſeparated but by ſchiſme, it is like
+<pb n="54" facs="tcp:114787:28"/>an arm cut off from the body, or a branch from the vine; which make that arm or branch no part of the body or vine.</hi> What though all this be granted, will this make one of the two, no Church? I beleeve not. That Chriſts myſticall body is but one, the Scripture ſpeaks more then once, 1 <hi>Cor.</hi> 12.13. <hi>Eph.</hi> 1.23. <hi>Col.</hi> 1.18. That may not be denyed, or queſtioned. That <hi>this body is made up of many members,</hi> is liwiſe teſtified, <hi>Ro.</hi> 12.4, 5. 1. <hi>Cor.</hi> 12.12, <hi>&amp;c.</hi> And we know, <hi>all thoſe members muſt communicate one with another,</hi> and wherein:
+<note n="(r)" place="margin">1. Cor. 12.25, 26.</note> in the ſame <hi>care one for another;</hi> in the ſame <hi>ſufferings, and rejoycings one with another.</hi> We are not bound to communi<g ref="char:EOLhyphen"/>cate with you in the ſame ceremonies, geſture, ſuperſtition, or error; no more then the hand is bound to communicate with the foot in going, the heels with the ears in hearing, or either with the other in the gout, or any other diſeaſe. The difference between you &amp; us, is this, we love the body, and hate the diſeaſe; but you love the body ſo, that ye love, and foſter the diſeaſe; &amp; hate thoſe, that are not viſited with the like contagion. We communicate with you in the ne<g ref="char:EOLhyphen"/>ceſſaries, in Faith, Hope, and Charity, as alſo in all things eſſentiall to a Church. We beleeve the Scriptures, and the three Creeds with you, though not alwayes in the ſame ſenſe. Our hopes are the ſame with yours, though we ſomething differ in the means: and our charity is mani<g ref="char:EOLhyphen"/>feſted by our prayers; as heretofore I acquainted you, § 19. But your charity is ſo little, that rather then we ſhall be members of the Catholick, ye will be none your ſelves.</p>
+            <p n="33">33. <hi>For</hi>
+               <note n="(s)" place="margin">
+                  <hi>n.</hi> 7.</note> (ſay you) <hi>if a member be ſeparated but by ſchiſme, it is like an arm cut off from the body, or a branch from the vine; which make that arm or branch no part of the body or vine.</hi> Very right, it is ſo; not becauſe it is diſtant from this or that member, or unlike either in faſhion, or com<g ref="char:EOLhyphen"/>lineſſe, or office; but becauſe it is cut off from the body, by which it receives life and ſtrength from the head. A Church then muſt be ſeparated from the myſticall body of <hi>Chriſt,</hi> before it can be in direct ſchiſme; and this muſt be done by pride, or obſtinacy in error. If ye ſhall excom<g ref="char:EOLhyphen"/>municate any man or Church cauſeleſly, the fault is in you,
+<pb n="55" facs="tcp:114787:28"/>not in them; though they be under <hi>Romes</hi> Juriſdiction. But ye have no ſuch power over us; as is ſufficiently proved, § 25, 26. Say not then, though your ſelves be the hand, or the eye, that
+<note n="(t)" place="margin">1. Cor. 12.15.</note> becauſe the foot is not the hand, nor
+<note n="(u)" place="margin">
+                  <hi>Ib. v.</hi> 16.</note> the eare, the eye, it is not therefore of the body. God knows,
+<note n="(x)" place="margin">
+                  <hi>Ib. v.</hi> 14.</note> the <hi>body is not one member, but many:</hi> and each of theſe receive life from the head, though not every one of theſe ſo ſuddenly, ſo immediately. Thus
+<note n="(y)" place="margin">
+                  <hi>Ib. v.</hi> 13.</note> 
+               <hi>by one ſpirit we are all baptized into one body,</hi> the myſtical body of <hi>Chriſt.</hi>
+               <note n="(z)" place="margin">
+                  <hi>Ib. v.</hi> 27.</note> 
+               <hi>We are therefore the body of Chriſt,</hi> or rather of the body, as <hi>Corinth</hi> was,
+<note n="(a)" place="margin">Ib.</note> 
+               <hi>membra de membro, members in part;</hi> not members of <hi>Rome,</hi> but members of the Weſtern Church. And though not <hi>Romaniſts,</hi> yet are we both <hi>Chriſtians</hi> and <hi>Catholicks.</hi> Say not, becauſe we cannot ſee <hi>Tranſubſtantiation</hi> and <hi>Purgatory,</hi> nor weild St. <hi>Peter</hi>'s ſword with you, that we are no members; we can hear the voice of the ſhepheard, and
+<note n="(b)" place="margin">
+                  <hi>Quid relicto capite membris adhaeres?</hi> Chry<g ref="char:EOLhyphen"/>ſoſt. in col. 2.19</note> we ſhall not forſake the ſhep<g ref="char:EOLhyphen"/>heard to be in league with the members.</p>
+            <p n="34">34. Now we draw neer your iſſue, which follows thus;
+<note n="*" place="margin">
+                  <hi>n.</hi> 8.</note> 
+               <hi>And that the Church of</hi> Rome <hi>and</hi> England <hi>are ſeparated by ſchiſme, I think, none will deny. For they abhor mutuall com<g ref="char:EOLhyphen"/>munion in divine Worſhip, Sacraments, and holy Rites: and no Proteſtant will frequent Catholick ſervice, eſpecially in the holy Sacrifice of Maſſe.</hi> A <hi>ſeparation</hi> there is indeed between you and us; and, if you will, a <hi>ſchiſme,</hi> the more the pity. But
+<note n="(c)" place="margin">Archbiſhop <hi>Lawd</hi> § 21. <hi>n.</hi> 1.</note> 
+               <hi>the cauſe of the ſchiſme is yours; for ye thruſt us from you, becauſe we called for Truth, and redreſſe of abuſes.</hi> And not onely ſo, but, according to your owne words,
+<note n="(d)" place="margin">
+                  <hi>n.</hi> 8.</note> 
+               <hi>Ye excommunicate us every yeer,</hi> all <hi>Proteſtants</hi> in gene<g ref="char:EOLhyphen"/>rall; a courſe unheard of, unknown with us. For though ſome one convicted member of yours be excom<g ref="char:EOLhyphen"/>municated, we uſe not to excommunicate a whole mul<g ref="char:EOLhyphen"/>titude or Nation. We condemne doctrines, not perſons; or if perſons, for the doctrines ſake. Care therefore is taken, that
+<note n="(e)" place="margin">Can.</note> our Parſons and Curates repair to <hi>Recu<g ref="char:EOLhyphen"/>ſants</hi> houſes, to confer with them, and to convince their errors, that ſo they may be won to Church. Neither doe we <hi>abhor mutuall communion with you in divine worſhip,</hi> but
+<pb n="56" facs="tcp:114787:29"/>in <hi>worſhipping</hi> or adoration of <hi>Images and Reliques.</hi> We cannot endure, that
+<note n="(f)" place="margin">Latria, <hi>ea dicitur ſervitus, quae pertinet ad colendum Deum.</hi> Aug. de civ. D. l. to. c. 1.</note> 
+               <hi>divine worſhip</hi> be given to any other then to the bleſſed Trinity.</p>
+            <p n="35">35. We abhorre not your Sacraments, but your <hi>halfe Communion;</hi> nor any <hi>holy Rites</hi> ye have.
+<note n="(g)" place="margin">
+                  <hi>Of Ceremo<g ref="char:EOLhyphen"/>nies,</hi> before the Book of Com<g ref="char:EOLhyphen"/>mon-prayer.</note> The <hi>exceſſive multitude of ceremonies,</hi> within our ſelves, we have pared off.
+<note n="(h)" place="margin">Ib.</note> 
+               <hi>And in theſe our doings we condemn no other Nation,</hi> much leſſe abhorre them, <hi>nor preſcribe any thing but to our owne people onely:</hi> obſerve that. Yet
+<note n="(i)" place="margin">Ib.</note> 
+               <hi>ſuch ceremonies</hi> we have retained, <hi>which doe ſerve to a decent order, and godly Diſcipline; and ſuch as be apt to ſtir up the dull mind of man to the remembrance of his duty to God;</hi> as alſo
+<note n="(k)" place="margin">Ib.</note> 
+               <hi>to the redu<g ref="char:EOLhyphen"/>cing of the people to a moſt perfect and godly living, without error or ſuperſtition.</hi> And they, that know any thing, cannot deny, but
+<note n="(l)" place="margin">
+                  <hi>Socrat. l.</hi> 5. <hi>c.</hi> 21. <hi>Sozom. l.</hi> 7. <hi>c.</hi> 19.</note> many Rites and obſervations there were in the <hi>East,</hi> which were not received in the <hi>Weſt.</hi> And in the <hi>Weſt</hi> they were not alike in all places. Of theſe St. <hi>Ambroſe</hi> ſpeaks thus,
+<note n="(m)" place="margin">
+                  <hi>Ambroſ. de Sacrament. l.</hi> 3. <hi>c.</hi> 1.</note> 
+               <hi>In omnibus cupio ſequi Eccleſiam Roma<g ref="char:EOLhyphen"/>nam. Sed tamen &amp; nos homines ſenſum habemus. Ideo quod</hi> ALIBI RECTIUS SERVATUR, <hi>&amp; nos recte cuſtodimus. Deſirous I am,</hi> ſaith he, <hi>to follow the Church of</hi> Rome <hi>in all things. And yet we are men of underſtanding. What therefore</hi> IS MORE RIGHTLY OBSER<g ref="char:EOLhyphen"/>VED IN OTHER PLACES, <hi>that doe we rightly keep.</hi> And is it not as lawfull for us to doe ſo? Per<g ref="char:EOLhyphen"/>fection is not at <hi>Rome;</hi> ſome obſervations may be more convenient, yea better in other places. And, I remember, St. <hi>Austin</hi> tells us, that
+<note n="(n)" place="margin">
+                  <hi>Aug. ep.</hi> 118. <hi>c.</hi> 2.</note> it was a rule of St. <hi>Ambroſe,</hi> to obſerve the cuſtomes of that Dioceſe, wherein we reſide; to have an eye upon the <hi>Biſhop,</hi> and to doe, as he does. This St. <hi>Auſtin</hi> took to be <hi>counſel from heaven,</hi> what ever you think. I would to God, we were ſo humble, and ſo flexible, as to ſubmit to this counſel.</p>
+            <p n="36">36. And whereas you adde, that <hi>no Proteſtant will frequent Catholick ſervice;</hi> I muſt tell you, that we of this Church frequent no other. And our Book of <hi>Divine ſervice</hi> is <hi>Ca<g ref="char:EOLhyphen"/>tholick</hi> in all things, but in this, that it is not <hi>Romane.</hi> Were it in the <hi>Latine</hi> tongue, with a prayer for the Pope
+<pb n="57" facs="tcp:114787:29"/>by name, and your half Communion, then it would be Catholick enough; though the people went home never the wiſer, never the better. I challenge the moſt able of your faction, to ſhew me any one paſſage in our <hi>Com<g ref="char:EOLhyphen"/>mon prayer Book,</hi> that is not <hi>Catholick.</hi> I know, you can<g ref="char:EOLhyphen"/>not: I know, it is as agreeable, as poſſibly may be, to the <hi>Catholick faith.</hi> I ſpeak not this at hap-hazard, or out of blind affection; but as St. <hi>Auſtin,</hi> ſo I,
+<note n="(o)" place="margin">
+                  <hi>Aug. de Ver<g ref="char:EOLhyphen"/>bis Dom. Ser.</hi> 63. <hi>c.</hi> 2.</note> 
+               <hi>Fides noſtra, id eſt, fides vera, fides recta, fides Catholica, non opinione prae<g ref="char:EOLhyphen"/>ſumptionis, ſed teſtimonio lectionis collecta; Our faith, that is, the true, the right, the Catholick faith, which is not collected out of an opinion of preſumption, but testified unto us by our</hi> ſerious <hi>reading</hi> the Scriptures, Councels, and Fathers;
+<note n="(p)" place="margin">
+                  <hi>Nec haereti<g ref="char:EOLhyphen"/>câ temeritate in<g ref="char:EOLhyphen"/>certa, ſed Apoſto<g ref="char:EOLhyphen"/>licâ veritate fundata, hoc in<g ref="char:EOLhyphen"/>ſinuat, hoc novi<g ref="char:EOLhyphen"/>mus, hoc credi<g ref="char:EOLhyphen"/>mus.</hi> Ib.</note> 
+               <hi>nei<g ref="char:EOLhyphen"/>ther wavering through hereticall raſhneſſe, but founded upon Apoſtolicall truth, inſinuates this unto us; thus we know it, thus we beleeve it.</hi> And for the <hi>Sacrifice of the Maſſe,</hi> as ye call it, we acknowledge it to be a <hi>Commemorative Sacrifice.</hi> Let us have the <hi>Communion in both kindes,</hi> preſſe us not to beleeve <hi>Tranſubſtantiation,</hi> or any of your late inventions, and I know no reaſon, but we may frequent that, which ye call the <hi>Sacrifice of the Maſſe.</hi> I ſhall not quarrel the word, when the main matter is agreed upon.</p>
+            <p n="37">37. Heretofore, whatever you think, ſo little excep<g ref="char:EOLhyphen"/>tion was there to our <hi>Divine Service,</hi> Worſhip, Sacra<g ref="char:EOLhyphen"/>ments, Prayers, and holy Rites, that thoſe two memo<g ref="char:EOLhyphen"/>rable Biſhops
+<note n="(q)" place="margin">Bo. of Mar.</note> 
+               <hi>Bonner</hi> and <hi>Gardiner</hi> communicated with us in them; and ſo did moſt of the <hi>Romane Catholicks</hi> of this Nation, for ten yeers under Queen <hi>Elizabeth,</hi> till that terrible Bull of <hi>Pius Quintus</hi> came thundering out. Yea Biſhop <hi>Gardiner</hi> ſubſcribes, that the <hi>Common-prayer book is a devout, a godly, a Chriſtian Book and Order, &amp;c.</hi>
+               <note n="*" place="margin">
+                  <hi>Ib. p.</hi> 1357.</note> But as it was with the <hi>Donatiſts,</hi> ſo is it much alike with you:
+<note n="(r)" place="margin">
+                  <hi>Aug. de Verb. Dom. Ser.</hi> 49. <hi>c.</hi> 10.</note> they in the height of pride trumpeted it out, <hi>Nos ſanctificamus, nos juſtificamus, nos facimus juſtos; we are the men, that ſanctifie; we are the men, that juſtifie; we make you juſt. Ecce, quo aſcenderunt;</hi> Behold, to what an height they were grown. And are not ye aſcended to a ſtrange height, to ſay, <hi>Nos facimus Catholicos,</hi> Wee are they,
+<pb n="58" facs="tcp:114787:30"/>that make men Catholicks. Side with us, and ye are Ca<g ref="char:EOLhyphen"/>tholicks; differ from us in the leaſt point, and ye are He<g ref="char:EOLhyphen"/>reticks? St. <hi>Paul</hi> is of another minde;
+<note n="(s)" place="margin">Ro. 14.3, 4.</note> in meats, in matters of indifferency, in ſuch things, that are not of neceſſity to be done, we are not to judge one ano<g ref="char:EOLhyphen"/>ther.
+<note n="(t)" place="margin">Phil. 3.15, 16.</note> If in theſe kinde of things, and ſuch as tend to perfection of life, <hi>we be otherwiſe minded, God ſhall reveal even this unto us:</hi> ſo that we <hi>walk by the ſame rule, whereto we have attained.</hi> That is
+<note n="(u)" place="margin">Chryſoſt. in loc.</note> ſo we preſerve the ſame <hi>faith,</hi> and keep the ſame <hi>commandements.</hi> So St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome.</hi> Theſe, theſe are the rule, we muſt be ſure to walke by.</p>
+            <p n="38">38. From <hi>Divine ſervice</hi> you deſcend to the <hi>publick Sta<g ref="char:EOLhyphen"/>tutes and Laws of the Land,</hi> whereby it is enacted,
+<note n="(x)" place="margin">
+                  <hi>n.</hi> 8.</note> 
+               <hi>that any one, who ſhould reconcile one of the Church of</hi> England, <hi>to the Church of</hi> Rome, <hi>is guilty of death.</hi> And reaſon good, ſince ye have ſo many traitrous principles againſt the <hi>Oaths of Allegiance</hi> and <hi>Supremacy,</hi> againſt the honor and ſafety of Princes. Indeed what is this <hi>reconciling to Rome,</hi> which by the Laws is condemned, but a withdrawing of the people from their obedience, to give that to the Pope, which is due to their Prince? This is plain by the Statute, whoſe words are theſe,
+<note n="(y)" place="margin">3. <hi>Jac.</hi> 4.</note> 
+               <hi>That perſon, who ſhall put in practiſe to abſolve, perſwade, or withdraw any of his Majeſties Subjects from their naturall</hi> OBEDIENCE TO HIS MAJESTY, <hi>or to reconcile them to the Pope or Sea of</hi> Rome, <hi>or to move them, or any of them, to</hi> PROMISE OBEDIENCE TO ANY PRETENDED AUTHORITY OF THE SEA OF ROME, <hi>That then every ſuch perſon, their Procurers,</hi> &amp;c. <hi>ſhall be adjudged Traitors: and being thereof lawfully convicted, ſhall have judgment, and ſuffer as in caſes of High Treaſon.</hi> You ſee the Law, and the reaſon of this Law. If this will not ſatisfie, the ſame Statute ſayes moreover, that
+<note n="(z)" place="margin">Ib.</note> 
+               <hi>It is found by daily ex<g ref="char:EOLhyphen"/>perience, that many his Majeſties Subjects, that adhere in their hearts to the Popiſh Religion, by the infection drawn from thence, and by the wicked and devilliſh counſel of Jeſuites, Seminaries,</hi> &amp;c. <hi>are ſo far</hi> PERVERTED IN POINT OF
+<pb n="59" facs="tcp:114787:30"/>LOYALTY <hi>and due allegiance, as they are ready to enter<g ref="char:EOLhyphen"/>tain and execute any treaſonable conſpiracies, and practiſes; as appears by the Gunpowder-treaſon.</hi> By this time you ſee the reaſon of this Act; and cannot deny it to be juſt.</p>
+            <p n="39">39. <hi>But</hi> (if you ſpeak truth) <hi>a Prieſt, that ſhall</hi> but <hi>cele<g ref="char:EOLhyphen"/>brate Maſſe, is made guilty of High Treaſon.</hi> So you ſay; but upon ſearch I can find no ſuch Statute. Indeed an Act there is, that
+<note n="(a)" place="margin">23. <hi>Eliz.</hi> 1.</note> 
+               <hi>Every perſon that ſhall ſay or ſing Maſſe, being thereof lawfully convicted, ſhall forfeit the ſumme of</hi> 200 <hi>Marks,</hi> and be committed to priſon till he pay this ſumme. And
+<note n="(b)" place="margin">Ib.</note> 
+               <hi>Every perſon, that ſhall willingly hear Maſſe, ſhall forfeit the ſumme of</hi> 100 <hi>Marks, and ſuffer im<g ref="char:EOLhyphen"/>priſonment for a yeer.</hi> The like penall Laws have been heretofore ſet forth by the beſt Chriſtian Emperours,
+<note n="(c)" place="margin">
+                  <hi>Socrat. l.</hi> 1. <hi>c.</hi> 6 <hi>Sozom. l.</hi> 1. <hi>c.</hi> 19.</note> by <hi>Constantine</hi> the Great againſt the <hi>Arians.</hi> But the <hi>Donatiſts</hi> were Schiſmaticall Sectaries; and
+<note n="(d)" place="margin">
+                  <hi>Aug. ep.</hi> 48.</note> againſt theſe he made alſo a Decree, that ſo many of thoſe as refuſed to be united to the Church, ſhould forfeit their perſonall eſtates. Many ſuch Laws are to be ſeen in the <hi>African</hi> Code. And our Saviours command is, that
+<note n="(e)" place="margin">St. Luc. 14.23.</note> the people be compelled to come into his houſe. And this care hath been taken for the good of all ſorts of <hi>Recu<g ref="char:EOLhyphen"/>ſants,</hi> that ſo
+<note n="(f)" place="margin">1. <hi>Eliz.</hi> 2. <hi>&amp;</hi> 23. <hi>Eliz.</hi> 1.</note> they might be drawn to Church, to ſerve God with one mind, and one mouth; which every National Church is bound to doe. Care therefore is taken, that
+<note n="(g)" place="margin">
+                  <hi>Cod. Eccleſ. <g ref="char:V">Ʋ</g>niverſ. can.</hi> 81</note> we <hi>pray with the people.</hi> But how doe they pray with the people, who pray in a tongue, the people underſtand not?
+<note n="(h)" place="margin">Ib.</note> Neither ought we, in times of peace, to com<g ref="char:EOLhyphen"/>municate with ſuch, as meet in private houſes, and fre<g ref="char:EOLhyphen"/>quent not the <hi>Church prayers.</hi>
+               <note n="(i)" place="margin">Ib.</note> And they, that ab<g ref="char:EOLhyphen"/>horre one Church, are not to be received into another. Yee therefore, that will not communicate in prayers with your own Mother Church, ought not to be recei<g ref="char:EOLhyphen"/>ved by any member of the Catholick. And in doing ſo, in receiving ſuch, as you are, <hi>Rome</hi> offends againſt the Laws of the Catholick Church.</p>
+            <p n="40">40. Theſe Canons are little obſerved, little thought of: all, that is ſtudyed in theſe dayes, is to continue the breach,
+<pb n="60" facs="tcp:114787:31"/>and to make it wider. Hence is this exclamation,
+<note n="(k)" place="margin">
+                  <hi>n.</hi> 8.</note> 
+               <hi>How therefore can one Church, Christs myſticall hody, grow up toge<g ref="char:EOLhyphen"/>ther of ſuch different members?</hi> That <hi>Chriſts mysticall body</hi> conſiſts, and <hi>growes up of different members,</hi> is clear, 1. <hi>Cor.</hi> 12.12, <hi>&amp;c.</hi> and all theſe receive life and power from the ſame head; even thoſe very members, that are diſtorted, or diſeaſed. The ſound hand therefore cannot ſay to the lame leg, or gouty foot, Thou art not of the ſame body: but according to the directions of the head, the ſound hand provides and applies a plaiſter to the diſeaſed member. Ob<g ref="char:EOLhyphen"/>ſervable it is, that between the Eaſtern &amp; Weſtern Churches were many differences, <hi>viz.</hi> 1. About the obſervation of <hi>Easter.</hi> 2. <hi>Rebaptization</hi> of Hereticks. 3. Proceſſion of the holy Ghoſt. 4. The number of Sacraments. 5. The man<g ref="char:EOLhyphen"/>ner of Ordination. 6. The Canonicall Books of the Old Teſtament, and ſome other. And yet for all theſe, they grew up together comfortably, and continued in the ſame body. Seldome or never any, that offer'd to make a breach, or to cenſure other Churches for theſe or the like diffe<g ref="char:EOLhyphen"/>rent obſervations and expreſſions, but two or three Biſhops of <hi>Rome.</hi> Such were the humility and charity of thoſe glo<g ref="char:EOLhyphen"/>rious Saints. In thoſe purer dayes
+<note n="(l)" place="margin">
+                  <hi>Neminem ju<g ref="char:EOLhyphen"/>dicantes, aut a jure communio<g ref="char:EOLhyphen"/>nis aliquem, ſi diverſum ſenſe<g ref="char:EOLhyphen"/>vit, amoventes.</hi> Cypr. in concil. Carthag.</note> one Biſhop was not ſo forward to cenſure or excommunicate another Biſhop, for being of a diverſe perſuaſion. No, no, ſaith St. <hi>Cyprian,</hi>
+               <note n="(m)" place="margin">Ib.</note> 
+               <hi>Neque quiſquam noſtrum Epiſcopum ſe eſſe Epiſcoporum conſtituit, aut tyrannico terrore ad obſequendi neceſ<g ref="char:EOLhyphen"/>ſitatem collegas ſuos adegit, No man in thoſe dayes took upon him to be Biſhop of Biſhops, or to enforce any by tyrannicall terror to ſubſcribe his dictates.</hi> Then was it lawfull for every one to ſpeak his minde freely, when reaſon, not power; weight, and not number, bore the ſway.</p>
+            <p n="41">41. But you object, that
+<note n="(n)" place="margin">
+                  <hi>n.</hi> 8.</note> 
+               <hi>I ſay</hi> Sect. 19. <hi>that ſince the Reformation we have not communicated with the Church of Rome.</hi> Very right, I doe ſo. But withall I tell you, that <hi>this is no fault of ours;</hi> ſince ye will not ſuffer us to commu<g ref="char:EOLhyphen"/>nicate with you, unleſſe we communicate with your er<g ref="char:EOLhyphen"/>rors. Is not this to deal with us, as the <hi>Jews</hi> did with the poor man, that was born blinde?
+<note n="(o)" place="margin">St. Jo. 9.34.</note> while he was
+<pb n="61" facs="tcp:114787:31"/>blinde, the <hi>Phariſees</hi> communicated with him; but when he had gained ſight, they caſt him out, they excommuni<g ref="char:EOLhyphen"/>cated him. But
+<note n="(p)" place="margin">
+                  <hi>Ib. v.</hi> 35.</note> our bleſſed Saviour took pity on him, and received him into his communion. Thus, while we were blinde, and ſaw not your errors, we were your dear friends: but when we diſcerned them, and com<g ref="char:EOLhyphen"/>plained of them, hell was good enough for us. Yet we doubt not, but
+<note n="(q)" place="margin">1. St. Jo. 1.3.</note> we have communion with <hi>Chriſt,</hi> ſince we hold communion with the <hi>Apoſtles</hi> by their ſucceſſors, not onely in function, but in faith and cha<g ref="char:EOLhyphen"/>rity. For we receive the two Teſtaments, with the three Creeds, in the ſame ſenſe with the Primitive Church. We pray for the whole Church; for all <hi>Jews, Turks, Infidels, and Hereticks;</hi> yea for our <hi>enemies, perſecutors, and ſlanderers.</hi> We anathematize not Churches, but errors; nor any per<g ref="char:EOLhyphen"/>ſons, but ſuch as are, or ought to be, members of this Church and Kingdome: we preſſe not beyond our line. If this be the right way to heaven, ſurely we are in the right, and ye in the wrong.</p>
+            <p n="42">42. Well,
+<note n="(r)" place="margin">
+                  <hi>n.</hi> 9.</note> 
+               <hi>the Church of</hi> Rome <hi>and</hi> England <hi>being thus ſeparated, both in faith and communion, and ſo not one: and the Church of</hi> Rome, <hi>and thoſe in communion with her, by your ſaying not being the Catholick Church.</hi> For the <hi>ſeparation</hi> we muſt thank you, for our <hi>faith</hi> we bleſſe <hi>Chriſt.</hi> What that is, the <hi>Book of Common-prayer</hi> manifeſts in plain terms: and I have ſhewed, that the <hi>Pope</hi> and his Conclave have incurred Canonicall cenſures, by impoſing a new Creed upon us and others. That we communicate not with you, the fault is yours: and <hi>Catholicks</hi> we ſhall be able to prove our ſelves, when ye will not be found <hi>Orthodoxe.</hi> But ſuch is that <hi>typhus Romanus,</hi> the infinite pride of <hi>Rome,</hi> that none ſhal be <hi>Catholicks,</hi> none in communion of the Church, nor in the way to heaven, that will not ſtoop to their lure, that will not erre with <hi>Pius Quartus,</hi> and the Councel of <hi>Trent.</hi> As if the <hi>Romanes</hi> were the onely, at leaſt had been the firſt <hi>Chriſtians;</hi> and that St. <hi>Peter</hi>'s keyes were tyed to the <hi>Popes</hi> girdle, to let in, and to keep out whom he liſted. Whereas we know,
+<note n="(s)" place="margin">St. Jo. 20.22, 23.</note> the <hi>keyes</hi> were given to
+<pb n="62" facs="tcp:114787:32"/>all the Apoſtles alike, to St. <hi>John</hi> for <hi>Epheſus,</hi> as much as to St. <hi>Peter</hi> for <hi>Rome.</hi> Yea
+<note n="(t)" place="margin">Hieron.</note> St. <hi>Peter</hi> himſelf provided for <hi>Antioch</hi> before <hi>Rome;</hi> for he was firſt, Biſhop of <hi>Anti<g ref="char:EOLhyphen"/>och.</hi> The ſame keyes to all the Apoſtles for all Nations alike; that ſo all might be admitted by the ſame keyes into the ſame
+<note n="(u)" place="margin">1. Tim. 3.15.</note> 
+               <hi>houſe of God, which is the Church of the living God, the pillar and ground of truth.</hi> And in this houſe by Gods grace we ſhall continue, while
+<note n="(x)" place="margin">Col. 2.19.</note> we <hi>hold the head,</hi> and from thence receive nouriſhment, by thoſe joynts and bands, which <hi>Chriſt</hi> hath ordained. And,
+<note n="*" place="margin">For the judg<g ref="char:EOLhyphen"/>ment of the whole contro<g ref="char:EOLhyphen"/>verſie, we refer unto the moſt holy Scriptures, and the Catho<g ref="char:EOLhyphen"/>lick Church of Chriſt. The Proteſt. of Biſh. <hi>Scory,</hi> &amp;c. Book of Mart. p. 2120</note> were your party contented, to be ruled by antiquity, we might be one, as the houſe is one.</p>
+            <p n="43">43. That the <hi>Church of</hi> Rome, <hi>and thoſe in communion with her, are not</hi> (as you would fain have it) <hi>the Catholick Church,</hi> is fully manifeſted in my former anſwer, § 2, <hi>&amp;c.</hi> 12, 22, 23, 29. And yet there was the Catholick Church at all times, ſince it was firſt conſtituted.
+<note n="(y)" place="margin">
+                  <hi>Aug. de Gen. ad lit. imper<g ref="char:EOLhyphen"/>fect. c.</hi> 1.</note> 
+               <hi>Mater enim Eccleſia, Catholica dicitur ex eo, quia univerſaliter perfecta est, &amp; in nullo claudicat, &amp; per totum orbem diffuſa eſt:</hi> the <hi>Mo<g ref="char:EOLhyphen"/>ther Church is hence called Catholick, becauſe ſhe is univerſally perfect, and halts in nothing, and is diffuſed through the whole world.</hi> She is not <hi>Catholick,</hi> or ſound, becauſe ſhe communi<g ref="char:EOLhyphen"/>cates with <hi>Rome;</hi> but <hi>Rome</hi> is Catholick, if ſhe communi<g ref="char:EOLhyphen"/>cate with her, and ſo is every Church. We ſhall therefore communicate with this our <hi>Mother,</hi> that ſo we may conti<g ref="char:EOLhyphen"/>nue <hi>Catholick.</hi> We are ſure, the <hi>Mother halts not,</hi> though ſome of the Daughters may. That <hi>Rome</hi> hath halted down<g ref="char:EOLhyphen"/>right in the <hi>prime Articles,</hi> is too notorious, as hath been ſhewed, § 18, 27, 32, <hi>&amp;c.</hi> and then, I am ſure, ſhe was not <hi>Catholick.</hi>
+               <note n="(z)" place="margin">
+                  <hi>Vincent. Li<g ref="char:EOLhyphen"/>rin. c.</hi> 14.</note> 
+               <hi>Nemini enim licet, praeter id, quod Eccleſia Catholica uſquequa<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> evangelizat, accipere:</hi> for it is not law<g ref="char:EOLhyphen"/>full for her, or any other, to receive, or broach any other doctrine, then that, which the Catholick Church preaches every where; much leſſe to enforce it as neceſſary to ſal<g ref="char:EOLhyphen"/>vation. Where then ye leave the <hi>Church Catholick,</hi> it is our duty to leave you.
+<note n="(a)" place="margin">
+                  <hi>Eſtnè aliquis tantae audaciae, qui praeter id, quod apud Ec<g ref="char:EOLhyphen"/>cleſiam adnun<g ref="char:EOLhyphen"/>ciatum eſt, ad<g ref="char:EOLhyphen"/>nunciet, vel tan<g ref="char:EOLhyphen"/>tae levitatis, qui praeter id, quod ab Eccleſiâ ac<g ref="char:EOLhyphen"/>cipit, accipiat?</hi> Ib. This Church he ſpeaks of, is not the <hi>Romane</hi> but the Catholick Church.</note> As it is audaciouſneſſe in you, to induce, or impoſe any new Article, ſo were it levity in us to embrace it.</p>
+            <pb n="63" facs="tcp:114787:32"/>
+            <p n="44">44. What we have, we have received from our good Mother the Catholick Church: and though by you, yet not from you; <hi>Chriſts</hi> legacies they are, not yours. If ye deliver us theſe legacies in baſe or counterfeit coin, we ſhall not accept of it. Gold ye received from the Teſtator, and not lead, we know it by his Will; give us that, which ye received, and not gilded ſtuffe in ſtead of gold. If ye tender to us, that, which is unwarrantable, we are reſolved
+<note n="(b)" place="margin">Gal. 1.8, 9.</note> with the veſſel of Election, to denounce to you or any other, an <hi>Anathema;</hi> we ſhall not, we muſt not endure <hi>novum dogma,</hi> any new Article. If new, it can never be right.
+<note n="(c)" place="margin">2 Tim. 3.15.</note> 
+               <hi>The Scripture is able to make us wiſe unto ſalva<g ref="char:EOLhyphen"/>tion;</hi> that we ſet before us, and are reſolved, by Gods grace, to accept of nothing, but what is deduced from thence, or proved thereby, according to the interpreta<g ref="char:EOLhyphen"/>tion of the ancient Fathers and Councels. While our Church does thus, in ſpight of malice ſhe ſhall be <hi>Catho<g ref="char:EOLhyphen"/>lick.</hi>
+               <note n="(d)" place="margin">
+                  <hi>Dediſcam benè, quod didi<g ref="char:EOLhyphen"/>cerunt non benè.</hi> Vincent. Lirin. c. 25.</note> If we chance to learn any thing contrary to this, we are bound in Chriſtianity to caſt it by, though it come from <hi>Rome;</hi> and to
+<note n="(e)" place="margin">Ib.</note> betake our ſelves into the boſome of our Catholick Mother, as into the ſafeſt harbor. There we are ſure to find the living waters, and tree of life.</p>
+            <p n="45">45. Your <hi>deſire</hi> is behind, but differing from the former. Before your deſire was, <hi>to be ſhewn the Catholick Church diſtinct from the Church of</hi> Rome, <hi>and thoſe in her communion, for the laſt</hi> 1100 <hi>years.</hi> To this ſatisfaction is given, § 29, 32, <hi>&amp;c.</hi> But now
+<note n="(f)" place="margin">
+                  <hi>n.</hi> 9.</note> 
+               <hi>your deſire is to be ſhowed the Catholick Church, or the Church of</hi> England, <hi>diſtinct from the Church of</hi> Rome, <hi>and thoſe in her communion, for the laſt</hi> 1100 <hi>years, or for ſo <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng, as I pleaſe to ſay, the Church of</hi> Rome <hi>hath ſo grievouſly erred, that we dare not communicate with her. This deſire of yours</hi> (according to your own words) <hi>is not, nor by my Papers can he ſatisfied.</hi> Is it not enough to manifeſt, that your pre<g ref="char:EOLhyphen"/>ſent <hi>errors</hi> are ſo groſſe and <hi>grievous, that we dare not commu<g ref="char:EOLhyphen"/>nicate with the Church of Rome,</hi> but we muſt look back to former centuries? In my former Papers I have done it, but you will not ſee it. Other eyes, I preſume, will diſcern
+<pb n="64" facs="tcp:114787:33"/>this done, § 32, 33, 34. in my former anſwer. Of theſe you take little notice, becauſe you are reſolved with the ſelf-conceited <hi>Phariſee,</hi> to be what you are. And with
+<note n="(g)" place="margin">§. 11.</note> that <hi>Lady</hi> I ſpake of, you ask not this, or any other queſtion, as if you meant to be ſatisfied, with what is, or can be ſaid. Surely we did not communicate with <hi>Rome</hi> in the time of <hi>Zepherinus, Marcellinus, Liberius, Vigilius, Ho<g ref="char:EOLhyphen"/>norius,</hi> and thoſe
+<note n="(h)" place="margin">
+                  <hi>Genebrard. Chron. l.</hi> 4. <hi>Ann.</hi> 991.</note> 50 Apoſtaticall Popes, whom <hi>Gene<g ref="char:EOLhyphen"/>brard</hi> ſpeaks of. And great reaſon for it, ſince in thoſe dayes ye ſeparated your ſelves from the Church Catholick to ſide with Hereticks, and worſe, if worſe may be. Then was this Church diſtinct from yours, becauſe yours was divided from that Church,
+<note n="(i)" place="margin">1. Tim. 3.15</note> which is the <hi>pillar and ground of truth.</hi> If ye depart from the truth, we ſhall, and muſt depart from you.
+<note n="(k)" place="margin">Hoſ. 4.15.</note> 
+               <hi>Though</hi> Iſrael <hi>tranſgreſſe, yet muſt not</hi> Judah <hi>ſin.</hi> We muſt not be naught for company;
+<note n="(l)" place="margin">Exod. 23.2.</note> neither may we follow a multitude to doe evill.</p>
+            <p>Your Letters are anſwered, and your deſires, I hope, ſatisfied beyond your deſire. Your concluſion I like ſo well it ſhall be mine. With you therefore <hi>I beſeech Al<g ref="char:EOLhyphen"/>mighty God to look favourably into the ſouls deceived by devilliſh deceits, that all hereticall impieties removed, the hearts of them that erre, may relent, and return to the unity of his truth;</hi> and become one fold under one ſhepheard <hi>Jeſus Chriſt,</hi> our Lord; to whom, with the Father and the holy Ghoſt, be all honor, and glory, world without end, <hi>Amen.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>Placet vobis quaeſtio propoſita; Deus adjuvet, ut placeat &amp; ſoluta. Ecce quod dico, ut liberet &amp; me, &amp; vos.</hi> 1. In una <hi>enim</hi> fide <hi>ſtamus in nomine Chriſti; &amp;</hi> 2. in una domo 3. ſub uno Domino <hi>vivimus; &amp;</hi> 4. in uno corpore <hi>membra</hi> 5. ſub uno capite <hi>ſumus, &amp;</hi> 6. uno ſpiritu <hi>vegetamur.</hi>
+                  </p> 
+                  <bibl>
+                     <hi>Aug. de Verb. Domini, Ser.</hi> 63. <hi>c.</hi> 3.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
